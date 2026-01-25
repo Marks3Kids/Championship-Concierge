@@ -1,0 +1,35 @@
+workflows:
+  ios-capacitor:
+    name: iOS Build
+    max_build_duration: 60
+    instance_type: mac_mini_m2
+    environment:
+      node: 20
+      xcode: latest
+      vars:
+        BUNDLE_ID: "com.mingledtreasures.championshipconcierge"
+        NODE_ENV: "production"
+    scripts:
+      - name: Install dependencies
+        script: |
+          npm install
+      - name: Build web assets
+        script: |
+          npx vite build --config vite.config.prod.ts
+      - name: Add iOS platform
+        script: |
+          npx cap add ios || true
+      - name: Sync Capacitor
+        script: |
+          npx cap sync ios
+      - name: Build iOS app
+        script: |
+          cd ios/App
+          xcodebuild -workspace App.xcworkspace \
+            -scheme App \
+            -configuration Release \
+            -destination 'generic/platform=iOS' \
+            -archivePath build/App.xcarchive \
+            archive CODE_SIGNING_ALLOWED=NO
+    artifacts:
+      - ios/App/build/**/*.xcarchive
