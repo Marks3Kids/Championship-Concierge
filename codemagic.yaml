@@ -8,11 +8,10 @@ workflows:
       xcode: latest
       vars:
         BUNDLE_ID: "com.mingledtreasures.championshipconcierge"
-        NODE_ENV: "production"
     scripts:
       - name: Install dependencies
         script: |
-          npm install
+          npm ci || npm install
       - name: Build web assets
         script: |
           npx vite build --config vite.config.prod.ts
