@@ -14,7 +14,7 @@ workflows:
           npm ci || npm install
       - name: Build web assets
         script: |
-          npx vite build --config vite.config.prod.ts
+        npx vite build --config vite.config.capacitor.ts 
       - name: Add iOS platform
         script: |
           npx cap add ios || true
