@@ -51,13 +51,18 @@ workflows:
         script: |
           cd ios/App
           xcode-project use-profiles
+      - name: Update signing settings
+        script: |
+          cd ios/App
+          plutil -replace method -string "app-store" ~/export_options.plist || true
+          sed -i '' 's/CODE_SIGN_STYLE = Automatic/CODE_SIGN_STYLE = Manual/g' App.xcodeproj/project.pbxproj
+          sed -i '' 's/PROVISIONING_PROFILE_SPECIFIER = ""/PROVISIONING_PROFILE_SPECIFIER = "'"$CM_PROVISIONING_PROFILE_NAME"'"/g' App.xcodeproj/project.pbxproj
       - name: Build iOS app
         script: |
           cd ios/App
           xcode-project build-ipa \
             --workspace App.xcworkspace \
-            --scheme App \
-            --archive-flags="-destination 'generic/platform=iOS'"
+            --scheme App
       - name: Upload to TestFlight
         script: |
           app-store-connect publish \
