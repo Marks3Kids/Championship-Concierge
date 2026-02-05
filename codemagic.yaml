@@ -18,6 +18,16 @@ workflows:
       - name: Install dependencies
         script: |
           npm install --include=dev
+      - name: Generate App Icons
+        script: |
+          # Create resources directory
+          mkdir -p resources
+          # Copy our icon as the source
+          cp attached_assets/app-icon.png resources/icon.png
+          # Install capacitor assets generator
+          npm install -g @capacitor/assets
+          # Generate all icon sizes for iOS and Android
+          npx capacitor-assets generate --iconBackgroundColor '#166534' --iconBackgroundColorDark '#166534'    
       - name: Build web assets
         script: |
           npx vite build --config vite.config.capacitor.ts
