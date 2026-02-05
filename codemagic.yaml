@@ -60,8 +60,8 @@ workflows:
           end
           project.save
           " || echo "Ruby script failed, continuing anyway"
-            
-    - name: Verify Bundle ID
+     
+      - name: Verify Bundle ID
         script: |
           cd ios/App
           echo "Bundle IDs in project:"
