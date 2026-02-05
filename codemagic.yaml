@@ -42,6 +42,23 @@ workflows:
           cd ios/App
           pod deintegrate || true
           pod install --repo-update
+          - name: Fix Capacitor Framework Embedding
+      script: |
+        cd ios/App
+        ruby -e "
+        require 'xcodeproj'
+        project = Xcodeproj::Project.open('App.xcodeproj')
+        project.targets.each do |target|
+          next unless target.name == 'App'
+          embed_phase = target.build_phases.find { |p| p.respond_to?(:name) && p.name == 'Embed Frameworks' }
+          if embed_phase
+            embed_phase.files.each do |file|
+              file.settings = { 'ATTRIBUTES' => ['CodeSignOnCopy', 'RemoveHeadersOnCopy'] }
+            end
+          end
+        end
+        project.save
+        "    
       - name: Remove problematic Embed Pods script
         script: |
           cd ios/App
