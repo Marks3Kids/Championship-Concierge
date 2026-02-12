@@ -6,7 +6,7 @@ const premierOnlyFeatures = [
   { icon: Calendar, title: "Full Match Schedules", description: "All rounds from Group Stage to Final" },
   { icon: Plane, title: "Transportation Planner", description: "Flights, trains, buses & car rentals" },
   { icon: Utensils, title: "Dining & Lodging", description: "Restaurant and hotel recommendations" },
-  { icon: MessageSquare, title: "AI Concierge", description: "Your personal World Cup assistant" },
+  { icon: MessageSquare, title: "AI Concierge", description: "Your personal championship assistant" },
   { icon: Zap, title: "Trip Planning Tools", description: "Currency converter, planner & more" },
 ];
 
@@ -69,7 +69,7 @@ export default function Upgrade() {
           </div>
           
           <p className="text-sm text-muted-foreground mb-4">
-            Unlock the complete World Cup experience with full access to all features through August 2026.
+            Unlock the complete championship experience with full access to all features through August 2026.
           </p>
 
           <div className="space-y-3 mb-6">

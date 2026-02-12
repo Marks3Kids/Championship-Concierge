@@ -46,7 +46,7 @@ export const PRICING_TIERS: PricingTier[] = [
       "Knockout brackets",
       "Full match schedules",
       "Tournament news",
-      "World Cup history",
+      "Tournament history",
       "Tournament odds",
     ],
     buttonText: "Get Team Info",

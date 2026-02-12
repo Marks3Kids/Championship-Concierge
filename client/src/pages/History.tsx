@@ -96,7 +96,7 @@ const winningCampaigns: CountryWins = {
         { round: "Semi", opponent: "France", opponentFlag: "fr", score: "5-2" },
         { round: "Final", opponent: "Sweden", opponentFlag: "se", score: "5-2" },
       ],
-      highlight: "A 17-year-old Pelé announced himself to the world, scoring 6 goals including 2 in the final. Brazil's first World Cup triumph introduced 'jogo bonito' (the beautiful game) to global audiences.",
+      highlight: "A 17-year-old Pelé announced himself to the world, scoring 6 goals including 2 in the final. Brazil's first championship triumph introduced 'jogo bonito' (the beautiful game) to global audiences.",
     },
     {
       year: 1962,
@@ -122,7 +122,7 @@ const winningCampaigns: CountryWins = {
         { round: "Semi", opponent: "Uruguay", opponentFlag: "uy", score: "3-1" },
         { round: "Final", opponent: "Italy", opponentFlag: "it", score: "4-1" },
       ],
-      highlight: "Widely considered the greatest World Cup team ever. Pelé, Jairzinho, Tostão, Gérson, and Rivelino played breathtaking football. Brazil won all 6 matches and kept the Jules Rimet trophy permanently.",
+      highlight: "Widely considered the greatest championship team ever. Pelé, Jairzinho, Tostão, Gérson, and Rivelino played breathtaking football. Brazil won all 6 matches and kept the Jules Rimet trophy permanently.",
     },
     {
       year: 1994,
@@ -220,7 +220,7 @@ const winningCampaigns: CountryWins = {
         { round: "Semi", opponent: "Austria", opponentFlag: "at", score: "1-0" },
         { round: "Final", opponent: "Czechoslovakia", opponentFlag: "cz", score: "2-1 (aet)" },
       ],
-      highlight: "Italy's first World Cup on home soil. Coach Vittorio Pozzo's team came from behind in the final, with Angelo Schiavio scoring the winner in extra time.",
+      highlight: "Italy's first championship on home soil. Coach Vittorio Pozzo's team came from behind in the final, with Angelo Schiavio scoring the winner in extra time.",
     },
     {
       year: 1938,
@@ -231,7 +231,7 @@ const winningCampaigns: CountryWins = {
         { round: "Semi", opponent: "Brazil", opponentFlag: "br", score: "2-1" },
         { round: "Final", opponent: "Hungary", opponentFlag: "hu", score: "4-2" },
       ],
-      highlight: "Back-to-back titles under Pozzo. Silvio Piola starred with 5 goals as Italy became the first nation to successfully defend the World Cup.",
+      highlight: "Back-to-back titles under Pozzo. Silvio Piola starred with 5 goals as Italy became the first nation to successfully defend the championship.",
     },
     {
       year: 1982,
@@ -275,7 +275,7 @@ const winningCampaigns: CountryWins = {
         { round: "2nd Group", opponent: "Peru", opponentFlag: "pe", score: "6-0" },
         { round: "Final", opponent: "Netherlands", opponentFlag: "nl", score: "3-1 (aet)" },
       ],
-      highlight: "Argentina's first World Cup on home soil amid political controversy. Mario Kempes was the star with 6 goals including 2 in the final against the Netherlands.",
+      highlight: "Argentina's first championship on home soil amid political controversy. Mario Kempes was the star with 6 goals including 2 in the final against the Netherlands.",
     },
     {
       year: 1986,
@@ -319,7 +319,7 @@ const winningCampaigns: CountryWins = {
         { round: "Semi", opponent: "Croatia", opponentFlag: "hr", score: "2-1" },
         { round: "Final", opponent: "Brazil", opponentFlag: "br", score: "3-0" },
       ],
-      highlight: "France's first World Cup on home soil. Zinedine Zidane's two headers in the final crushed Brazil. The multiethnic squad united the nation under 'Black-Blanc-Beur'.",
+      highlight: "France's first championship on home soil. Zinedine Zidane's two headers in the final crushed Brazil. The multiethnic squad united the nation under 'Black-Blanc-Beur'.",
     },
     {
       year: 2018,
@@ -346,7 +346,7 @@ const winningCampaigns: CountryWins = {
         { round: "Semi", opponent: "Yugoslavia", opponentFlag: "rs", score: "6-1" },
         { round: "Final", opponent: "Argentina", opponentFlag: "ar", score: "4-2" },
       ],
-      highlight: "The first ever World Cup, hosted to celebrate Uruguay's centenary. Despite trailing 2-1 at halftime, Uruguay stormed back to beat rivals Argentina in the inaugural final.",
+      highlight: "The first ever championship, hosted to celebrate Uruguay's centenary. Despite trailing 2-1 at halftime, Uruguay stormed back to beat rivals Argentina in the inaugural final.",
     },
     {
       year: 1950,
@@ -372,7 +372,7 @@ const winningCampaigns: CountryWins = {
         { round: "Semi", opponent: "Portugal", opponentFlag: "pt", score: "2-1" },
         { round: "Final", opponent: "West Germany", opponentFlag: "de", score: "4-2 (aet)" },
       ],
-      highlight: "England's only World Cup. Geoff Hurst's hat-trick in the final, including the controversial 'Wembley Goal', secured victory. Bobby Moore lifted the Jules Rimet trophy.",
+      highlight: "England's only championship. Geoff Hurst's hat-trick in the final, including the controversial 'Wembley Goal', secured victory. Bobby Moore lifted the Jules Rimet trophy.",
     },
   ],
   "Spain": [

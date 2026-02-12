@@ -110,4 +110,4 @@ Send your feedback to: [INSERT YOUR EMAIL OR PREFERRED METHOD]
 
 ## Thank You!
 
-Your feedback helps make Championship Concierge the best travel companion for the 2026 World Cup. We appreciate your time and detailed reports!
+Your feedback helps make Championship Concierge the best travel companion for the 2026 championship. We appreciate your time and detailed reports!

@@ -17,7 +17,7 @@ export const watchParties: CityWatchParties[] = [
   {
     cityKey: "newYork",
     officialFanFest: {
-      name: "FIFA Fan Festival NYC",
+      name: "Fan Festival NYC",
       type: "fanfest",
       capacity: "50,000+",
       address: "Times Square, New York, NY",
@@ -38,7 +38,7 @@ export const watchParties: CityWatchParties[] = [
   {
     cityKey: "dallas",
     officialFanFest: {
-      name: "FIFA Fan Festival Dallas",
+      name: "Fan Festival Dallas",
       type: "fanfest",
       capacity: "40,000+",
       address: "AT&T Discovery District, Dallas, TX",
@@ -59,7 +59,7 @@ export const watchParties: CityWatchParties[] = [
   {
     cityKey: "losAngeles",
     officialFanFest: {
-      name: "FIFA Fan Festival LA",
+      name: "Fan Festival LA",
       type: "fanfest",
       capacity: "45,000+",
       address: "Grand Park, Los Angeles, CA",
@@ -80,7 +80,7 @@ export const watchParties: CityWatchParties[] = [
   {
     cityKey: "atlanta",
     officialFanFest: {
-      name: "FIFA Fan Festival Atlanta",
+      name: "Fan Festival Atlanta",
       type: "fanfest",
       capacity: "35,000+",
       address: "Centennial Olympic Park, Atlanta, GA",
@@ -101,7 +101,7 @@ export const watchParties: CityWatchParties[] = [
   {
     cityKey: "miami",
     officialFanFest: {
-      name: "FIFA Fan Festival Miami",
+      name: "Fan Festival Miami",
       type: "fanfest",
       capacity: "40,000+",
       address: "Bayfront Park, Miami, FL",
@@ -122,7 +122,7 @@ export const watchParties: CityWatchParties[] = [
   {
     cityKey: "sanFrancisco",
     officialFanFest: {
-      name: "FIFA Fan Festival SF",
+      name: "Fan Festival SF",
       type: "fanfest",
       capacity: "30,000+",
       address: "Civic Center Plaza, San Francisco, CA",
@@ -143,7 +143,7 @@ export const watchParties: CityWatchParties[] = [
   {
     cityKey: "seattle",
     officialFanFest: {
-      name: "FIFA Fan Festival Seattle",
+      name: "Fan Festival Seattle",
       type: "fanfest",
       capacity: "25,000+",
       address: "Seattle Center, Seattle, WA",
@@ -164,7 +164,7 @@ export const watchParties: CityWatchParties[] = [
   {
     cityKey: "houston",
     officialFanFest: {
-      name: "FIFA Fan Festival Houston",
+      name: "Fan Festival Houston",
       type: "fanfest",
       capacity: "35,000+",
       address: "Discovery Green, Houston, TX",
@@ -185,7 +185,7 @@ export const watchParties: CityWatchParties[] = [
   {
     cityKey: "philadelphia",
     officialFanFest: {
-      name: "FIFA Fan Festival Philadelphia",
+      name: "Fan Festival Philadelphia",
       type: "fanfest",
       capacity: "30,000+",
       address: "Benjamin Franklin Parkway, Philadelphia, PA",
@@ -206,7 +206,7 @@ export const watchParties: CityWatchParties[] = [
   {
     cityKey: "kansasCity",
     officialFanFest: {
-      name: "FIFA Fan Festival KC",
+      name: "Fan Festival KC",
       type: "fanfest",
       capacity: "25,000+",
       address: "Power & Light District, Kansas City, MO",
@@ -227,7 +227,7 @@ export const watchParties: CityWatchParties[] = [
   {
     cityKey: "boston",
     officialFanFest: {
-      name: "FIFA Fan Festival Boston",
+      name: "Fan Festival Boston",
       type: "fanfest",
       capacity: "25,000+",
       address: "Boston Common, Boston, MA",
@@ -248,7 +248,7 @@ export const watchParties: CityWatchParties[] = [
   {
     cityKey: "toronto",
     officialFanFest: {
-      name: "FIFA Fan Festival Toronto",
+      name: "Fan Festival Toronto",
       type: "fanfest",
       capacity: "40,000+",
       address: "Nathan Phillips Square, Toronto, ON",
@@ -269,7 +269,7 @@ export const watchParties: CityWatchParties[] = [
   {
     cityKey: "vancouver",
     officialFanFest: {
-      name: "FIFA Fan Festival Vancouver",
+      name: "Fan Festival Vancouver",
       type: "fanfest",
       capacity: "30,000+",
       address: "Jack Poole Plaza, Vancouver, BC",
@@ -290,7 +290,7 @@ export const watchParties: CityWatchParties[] = [
   {
     cityKey: "mexicoCity",
     officialFanFest: {
-      name: "FIFA Fan Festival CDMX",
+      name: "Fan Festival CDMX",
       type: "fanfest",
       capacity: "60,000+",
       address: "Zócalo, Mexico City",
@@ -311,7 +311,7 @@ export const watchParties: CityWatchParties[] = [
   {
     cityKey: "guadalajara",
     officialFanFest: {
-      name: "FIFA Fan Festival Guadalajara",
+      name: "Fan Festival Guadalajara",
       type: "fanfest",
       capacity: "35,000+",
       address: "Plaza de la Liberación, Guadalajara",
@@ -332,7 +332,7 @@ export const watchParties: CityWatchParties[] = [
   {
     cityKey: "monterrey",
     officialFanFest: {
-      name: "FIFA Fan Festival Monterrey",
+      name: "Fan Festival Monterrey",
       type: "fanfest",
       capacity: "30,000+",
       address: "Macroplaza, Monterrey",

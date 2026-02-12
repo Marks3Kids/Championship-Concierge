@@ -25,7 +25,7 @@
     "close": "Close"
   },
   "teamHighlights": {
-    "Argentina": "Defending World Cup champions continued their dominance in South American qualifiers. Lionel Messi led the team with exceptional performances, while emerging talents like Julian Alvarez proved crucial.",
+    "Argentina": "Defending championship champions continued their dominance in South American qualifiers. Lionel Messi led the team with exceptional performances, while emerging talents like Julian Alvarez proved crucial.",
     "France": "Les Bleus showed strong form in European qualifiers. Kylian Mbappé continued his prolific scoring run while the defense remained solid under Didier Deschamps' tactical setup.",
     "Brazil": "A Seleção experienced a rebuilding phase under new management. Young talents like Endrick and Rodrygo stepped up while veterans provided crucial experience in tight matches.",
     "England": "The Three Lions showed improved tactical flexibility. Harry Kane remained the team's talisman while Jude Bellingham emerged as a world-class midfielder orchestrating play.",
@@ -40,20 +40,20 @@
     "Canada": "Les Rouges continued their remarkable rise in world football. Alphonso Davies led from the back while Jonathan David provided consistent goal-scoring.",
     "Japan": "Samurai Blue impressed in Asian qualification with technical excellence. A wealth of European-based talent provided quality throughout the squad.",
     "South Korea": "Taegeuk Warriors showed resilience in Asian qualifying. Son Heung-min captained the team while young talents stepped up in crucial moments.",
-    "Australia": "The Socceroos battled through a tough Asian qualifying campaign. A mix of experienced campaigners and rising stars kept World Cup dreams alive.",
+    "Australia": "The Socceroos battled through a tough Asian qualifying campaign. A mix of experienced campaigners and rising stars kept championship dreams alive.",
     "Algeria": "Les Fennecs showed strong form in African qualifying. A balanced squad combined technical skill with physical presence to secure their spot in the tournament.",
-    "Morocco": "The Atlas Lions built on their historic 2022 World Cup run. Achraf Hakimi and Hakim Ziyech continued to shine as Morocco established themselves among Africa's elite.",
+    "Morocco": "The Atlas Lions built on their historic 2022 championship run. Achraf Hakimi and Hakim Ziyech continued to shine as Morocco established themselves among Africa's elite.",
     "Senegal": "The Lions of Teranga continued their strong African presence. Despite losing Sadio Mané to injury at times, depth in the squad proved vital.",
     "Nigeria": "The Super Eagles showed resilience in a competitive African qualifying group. Victor Osimhen led the attack with world-class finishing.",
     "Egypt": "The Pharaohs qualified with Mohamed Salah leading from the front. The Liverpool star remained the focal point of Egypt's attacking play.",
     "Cameroon": "The Indomitable Lions showed their fighting spirit in qualifying. A blend of experienced campaigners and emerging talents kept them competitive.",
-    "South Africa": "Bafana Bafana qualified for their first World Cup since 2010. A new generation of talent emerged under Hugo Broos' guidance.",
+    "South Africa": "Bafana Bafana qualified for their first championship since 2010. A new generation of talent emerged under Hugo Broos' guidance.",
     "Tunisia": "The Eagles of Carthage showed tactical discipline throughout qualifying. Their organized defensive structure proved difficult to break down.",
     "Iran": "Team Melli continued their Asian dominance. Mehdi Taremi and Sardar Azmoun formed a lethal attacking partnership in qualifying.",
-    "Indonesia": "Garuda made history by qualifying for their first-ever World Cup. Naturalized players and emerging local talents combined to achieve the nation's greatest footballing moment.",
-    "Saudi Arabia": "The Green Falcons built on their shock 2022 World Cup win over Argentina. Investment in domestic talent development showed positive results.",
-    "Qatar": "The 2022 World Cup hosts showed improvement in Asian qualifying. Home tournament experience provided valuable lessons for the squad.",
-    "Uzbekistan": "The White Wolves qualified for their first World Cup. A golden generation finally achieved the breakthrough after years of near-misses.",
+    "Indonesia": "Garuda made history by qualifying for their first-ever championship. Naturalized players and emerging local talents combined to achieve the nation's greatest footballing moment.",
+    "Saudi Arabia": "The Green Falcons built on their shock 2022 championship win over Argentina. Investment in domestic talent development showed positive results.",
+    "Qatar": "The 2022 championship hosts showed improvement in Asian qualifying. Home tournament experience provided valuable lessons for the squad.",
+    "Uzbekistan": "The White Wolves qualified for their first championship. A golden generation finally achieved the breakthrough after years of near-misses.",
     "Croatia": "The Vatreni continued their remarkable tournament pedigree. Despite an aging core, quality in midfield remained world-class.",
     "Denmark": "Danish Dynamite remained competitive in European qualifying. The team showed tactical versatility under Kasper Hjulmand.",
     "Switzerland": "The Nati showed their typical consistency in European qualifying. Granit Xhaka's leadership from midfield proved invaluable.",
@@ -65,7 +65,7 @@
     "Scotland": "The Tartan Army qualified for back-to-back major tournaments. John McGinn and Scott McTominay drove the team forward.",
     "Hungary": "The Magyars continued their impressive run under Marco Rossi. Dominik Szoboszlai emerged as one of Europe's brightest talents.",
     "Czech Republic": "The Czech Lions showed solid defensive organization. Patrik Schick remained the team's primary goal threat.",
-    "Slovenia": "Slovenia qualified for their first World Cup since 2010. Jan Oblak's goalkeeping excellence anchored the team's defense.",
+    "Slovenia": "Slovenia qualified for their first championship since 2010. Jan Oblak's goalkeeping excellence anchored the team's defense.",
     "Wales": "The Dragons qualified through determination and team spirit. Despite Gareth Bale's retirement, new leaders emerged.",
     "Uruguay": "La Celeste showed their traditional fighting spirit. Darwin Núñez led the line while veterans provided experience.",
     "Colombia": "Los Cafeteros returned to form in South American qualifying. Luis Díaz dazzled on the wing with exceptional performances.",
@@ -73,16 +73,16 @@
     "Paraguay": "La Albirroja qualified through disciplined performances. The team showed improved organization under new management.",
     "Chile": "La Roja navigated a challenging transition period. A new generation began to establish themselves in the squad.",
     "Peru": "La Blanquirroja showed fighting spirit in qualifying. Paolo Guerrero provided veteran leadership to a developing squad.",
-    "Venezuela": "La Vinotinto made history qualifying for their first World Cup. A breakthrough moment for Venezuelan football.",
+    "Venezuela": "La Vinotinto made history qualifying for their first championship. A breakthrough moment for Venezuelan football.",
     "Costa Rica": "Los Ticos showed their tournament experience in CONCACAF qualifying. Solid defensive structure remained their trademark.",
-    "Panama": "Los Canaleros qualified for their second World Cup. Physical presence and set-piece prowess remained key strengths.",
+    "Panama": "Los Canaleros qualified for their second championship. Physical presence and set-piece prowess remained key strengths.",
     "Honduras": "La H qualified through determination and team effort. The Central American side showed improvement in their campaign.",
     "Jamaica": "The Reggae Boyz qualified through a strong defensive record. The team showed improved tactical discipline throughout.",
     "New Zealand": "The All Whites dominated Oceania qualifying. Chris Wood led the attack with crucial goals throughout the campaign.",
     "Bolivia": "La Verde used home altitude advantage effectively. The team showed resilience in South American qualifying.",
-    "DR Congo": "The Leopards qualified for their first World Cup since 1974. A historic achievement for Congolese football.",
+    "DR Congo": "The Leopards qualified for their first championship since 1974. A historic achievement for Congolese football.",
     "Iraq": "The Lions of Mesopotamia showed promising form. A blend of youth and experience drove their qualifying campaign.",
-    "Jordan": "Al-Nashama made history by qualifying for their first-ever FIFA World Cup. Under coach Jamal Sellami, Jordan reached the 2025 FIFA Arab Cup final and dominated Asian qualification with clinical performances."
+    "Jordan": "Al-Nashama made history by qualifying for their first-ever International Soccer Championship. Under coach Jamal Sellami, Jordan reached the 2025 Arab Cup final and dominated Asian qualification with clinical performances."
   },
   "common": {
     "back": "Back",
@@ -102,11 +102,11 @@
     "tip": "Tip",
     "previous": "Previous",
     "next": "Next",
-    "dataDisclaimer": "Data provided by third-party sources including FIFA.com, ESPN, BBC Sport, and Sky Sports."
+    "dataDisclaimer": "Data provided by third-party sources including official ticket sources, ESPN, BBC Sport, and Sky Sports."
   },
   "bracket": {
     "title": "Knockout Brackets",
-    "subtitle": "2026 World Cup Tournament Structure",
+    "subtitle": "2026 Championship Tournament Structure",
     "roundOf32": "Round of 32",
     "roundOf16": "Round of 16",
     "quarterfinals": "Quarterfinals",
@@ -123,7 +123,7 @@
     "finalMatch": "The Final",
     "finalInfo": "The championship match will be held at MetLife Stadium in New York/New Jersey",
     "aboutTitle": "About the Knockout Stage",
-    "aboutDescription": "The 2026 World Cup knockout stage begins after the group stage, featuring 32 teams competing in single-elimination matches across 16 host cities in the USA, Canada, and Mexico. Team positions will be determined by the official draw."
+    "aboutDescription": "The 2026 Championship knockout stage begins after the group stage, featuring 32 teams competing in single-elimination matches across 16 host cities in the USA, Canada, and Mexico. Team positions will be determined by the official draw."
   },
   "nav": {
     "home": "Home",
@@ -151,9 +151,9 @@
   "home": {
     "title": "Championship",
     "year": "Concierge",
-    "tagline": "Your Essential 2026 World Cup Travel Companion",
-    "updateInfo": "Your complete travel utility for the 2026 World Cup. Updated routinely with the latest information through August 2026.",
-    "potDrawAlt": "World Cup 2026 Draw Pots",
+    "tagline": "Your Essential 2026 Championship Travel Companion",
+    "updateInfo": "Your complete travel utility for the 2026 Championship. Updated routinely with the latest information through August 2026.",
+    "potDrawAlt": "Championship 2026 Draw Pots",
     "viewSchedule": "View Match Schedule",
     "latestNews": "Latest News",
     "news": {
@@ -174,7 +174,7 @@
   },
   "legal": {
     "title": "Legal Information",
-    "disclaimer": "DISCLAIMER: This application is an independent fan-made companion app and is not affiliated with, endorsed by, or connected to FIFA, the FIFA World Cup, or any official organizing bodies.",
+    "disclaimer": "DISCLAIMER: This application is an independent fan-made companion app and is not affiliated with, endorsed by, or connected to any official tournament organizers, or any official organizing bodies.",
     "noAffiliation": "All trademarks, logos, and brand names are the property of their respective owners. Any use of these marks is for informational purposes only and does not imply endorsement.",
     "informationalPurposes": "The information provided in this app is for general informational purposes only. While we strive to keep the information up to date and accurate, we make no representations or warranties of any kind about the completeness, accuracy, reliability, or availability of the information.",
     "thirdPartyLinks": "This app may contain links to third-party websites and services. We are not responsible for the content, accuracy, or practices of these external sites.",
@@ -311,18 +311,18 @@
       "toronto": "BMO Field",
       "vancouver": "BC Place"
     },
-    "fifaStadiums": {
+    "tournamentStadiums": {
       "newYork": "New York/New Jersey Stadium",
-      "losAngeles": "Los Angeles Stadium FIFA",
-      "dallas": "Dallas Stadium FIFA",
-      "miami": "Miami Stadium FIFA",
-      "atlanta": "Atlanta Stadium FIFA",
-      "seattle": "Seattle Stadium FIFA",
+      "losAngeles": "Los Angeles Stadium",
+      "dallas": "Dallas Stadium",
+      "miami": "Miami Stadium",
+      "atlanta": "Atlanta Stadium",
+      "seattle": "Seattle Stadium",
       "sanFrancisco": "San Francisco Bay Area Stadium",
       "houston": "Houston Stadium",
       "philadelphia": "Philadelphia Stadium",
-      "kansasCity": "Kansas City Stadium FIFA",
-      "boston": "Boston Stadium FIFA",
+      "kansasCity": "Kansas City Stadium",
+      "boston": "Boston Stadium",
       "toronto": "Toronto Stadium",
       "vancouver": "Vancouver Stadium",
       "guadalajara": "Guadalajara Stadium",
@@ -348,12 +348,12 @@
       "atlanta": "Atlanta, hosting a Semi-Final, is a city of rich history and modern energy. Known for its thriving arts scene and diverse neighborhoods, it offers a unique blend of Southern charm and urban sophistication.\n\nMercedes-Benz Stadium is an architectural marvel with a retractable roof, located in the heart of a city filled with historic landmarks and family-friendly attractions.",
       "miami": "Hosting the Bronze Final, Miami is an oceanfront hotspot known for its legendary nightlife, unique Art Deco architecture, and fantastic dining scene.\n\nWith great weather and a vibrant Latin influence, South Beach offers a party atmosphere like no other, making it a top destination for fans looking for sun and fun.",
       "sanFrancisco": "The San Francisco Bay Area is a global hub of tech innovation and cultural diversity. Visitors can enjoy the stunning bay views, world-class wine country nearby, and a progressive culinary scene.\n\nLevi's Stadium is a high-tech, LEED Gold certified venue that mirrors the region's commitment to sustainability and innovation.",
-      "seattle": "Seattle offers unique Pacific Northwest charm, surrounded by water, mountains, and evergreen forests. Known for its coffee culture and tech industry, it has a passionate soccer fan base.\n\nLumen Field is famous for its deafening atmosphere, providing an intense and exciting environment for World Cup matches.",
+      "seattle": "Seattle offers unique Pacific Northwest charm, surrounded by water, mountains, and evergreen forests. Known for its coffee culture and tech industry, it has a passionate soccer fan base.\n\nLumen Field is famous for its deafening atmosphere, providing an intense and exciting environment for championship matches.",
       "houston": "Houston is a diverse metropolis with a vibrant restaurant scene and nightlife. Home to the Space Center Houston and a renowned Museum District, it offers plenty of cultural exploration.\n\nThe city is known for its Southern hospitality and energy, making it a welcoming host for fans from around the world.",
       "philadelphia": "Where history meets innovation, Philadelphia is the birthplace of the United States. Visitors can tour Independence Hall and enjoy the city's famous cheesesteaks and Tastykakes.\n\nLincoln Financial Field hosts matches in a city with a passionate sports culture and a deep historical significance.",
       "kansasCity": "The 'Soccer Capital of America' in the Midwest, Kansas City is famous for its BBQ and jazz heritage. Arrowhead Stadium holds the Guinness World Record for the loudest crowd roar.\n\nFans can expect an electric atmosphere and a warm welcome in this sport-loving city.",
       "boston": "A cultural and historical hub, Boston offers a rich Revolutionary War heritage and picturesque New England scenery.\n\nGillette Stadium will host a Quarter-Final match, bringing world-class soccer to a region known for its championship sports history.",
-      "mexicoCity": "Hosting the Opening Match, Mexico City is a historic capital rich in cultural heritage. Estadio Azteca is a legendary venue, the only one to host three World Cup openers.\n\nVisitors can explore ancient Aztec ruins, colonial architecture, and a vibrant street food scene in one of the world's largest and most dynamic cities.",
+      "mexicoCity": "Hosting the Opening Match, Mexico City is a historic capital rich in cultural heritage. Estadio Azteca is a legendary venue, the only one to host three championship openers.\n\nVisitors can explore ancient Aztec ruins, colonial architecture, and a vibrant street food scene in one of the world's largest and most dynamic cities.",
       "monterrey": "Known as an industrial hub with modern infrastructure, Monterrey offers stunning mountain views and a passionate football culture.\n\nEstadio BBVA, nicknamed 'The Steel Giant', is a modern architectural marvel set against a dramatic natural backdrop.",
       "guadalajara": "Guadalajara is the heart of Mexican tradition, known for mariachi music, tequila, and colonial architecture.\n\nEstadio Akron features a unique volcano-inspired design. The city offers a festive atmosphere and a deep connection to Mexico's cultural roots.",
       "toronto": "A cosmopolitan metropolis on the shores of Lake Ontario, Toronto is known for its diversity and culture. It will host Canada's opening match.\n\nThe city offers a vibrant arts scene, diverse dining, and iconic landmarks like the CN Tower. BMO Field provides an intimate and energetic soccer experience.",
@@ -401,7 +401,7 @@
         "seattle": "The Emerald City's Beautiful Game",
         "boston": "Where Champions Are Made in New England",
         "sanFrancisco": "Bay Area Brilliance - Tech Meets Football",
-        "toronto": "Canada's World Cup Capital",
+        "toronto": "Canada's championship Capital",
         "vancouver": "Mountains, Ocean, and the Beautiful Game",
         "mexicoCity": "The Heart of Football - Aztec Legacy Lives",
         "guadalajara": "Where Mariachi Meets the Beautiful Game",
@@ -417,7 +417,7 @@
         "atlanta": "Welcome to the ATL! Mercedes-Benz Stadium has the most affordable concessions in American sports. MARTA runs direct to the Dome/GWCC station. Would you like recommendations for the best wings before the match?",
         "philadelphia": "Welcome to Philly! I see you've arrived in the birthplace of American democracy. SEPTA Regional Rail runs extended service to Lincoln Financial Field. Don't forget to grab a cheesesteak - I can recommend the best spots!",
         "seattle": "Welcome to the Emerald City! Lumen Field's atmosphere is legendary - it holds the record for crowd noise. Sound Transit Link Light Rail runs directly to the stadium. Would you like coffee shop recommendations for pre-match caffeine?",
-        "boston": "Welcome to Beantown! Gillette Stadium is in Foxborough - I recommend the commuter rail from South Station. Would you like me to map the best clam chowder spots for your World Cup experience?",
+        "boston": "Welcome to Beantown! Gillette Stadium is in Foxborough - I recommend the commuter rail from South Station. Would you like me to map the best clam chowder spots for your championship experience?",
         "sanFrancisco": "Welcome to the Bay Area! Levi's Stadium is in Santa Clara - Caltrain and VTA light rail connect directly. Wine country is just an hour away if you have rest days. Want recommendations for the best tech cafes?",
         "toronto": "Welcome to Toronto! BMO Field is right downtown - the TTC streetcar stops at the stadium. The diverse dining scene is perfect for international visitors. Would you like poutine recommendations?",
         "vancouver": "Welcome to Vancouver! BC Place is downtown with excellent SkyTrain access. The mountain and ocean views are stunning - I can map scenic routes to the stadium if you want to walk.",
@@ -724,7 +724,7 @@
     "criticalInfo": "Critical Info",
     "planner": "Planner",
     "aiConcierge": "AI Concierge",
-    "history": "World Cup History",
+    "history": "championship History",
     "odds": "Tournament Odds",
     "bracket": "Bracket Challenge",
     "religiousServices": "Religious Services",
@@ -734,10 +734,10 @@
     "signOut": "Sign Out",
     "signOutConfirm": "Sign out?",
     "signOutMessage": "This will clear your profile and settings data.",
-    "defaultUserName": "World Cup Fan"
+    "defaultUserName": "championship Fan"
   },
   "history": {
-    "title": "World Cup History",
+    "title": "championship History",
     "subtitle": "22 tournaments of football glory",
     "tournaments": "Tournaments",
     "totalGoals": "Total Goals",
@@ -761,8 +761,8 @@
     "tapForDetails": "Tap to see details",
     "title_one": "title",
     "title_other": "titles",
-    "worldCupTitle_one": "World Cup Title",
-    "worldCupTitle_other": "World Cup Titles",
+    "worldCupTitle_one": "championship Title",
+    "worldCupTitle_other": "championship Titles",
     "hostedBy": "Hosted by",
     "matchResults": "Match Results",
     "tournamentHighlight": "Tournament Highlight",
@@ -797,27 +797,27 @@
       "SouthAfrica": "South Africa"
     },
     "highlights": {
-      "Brazil1958": "A 17-year-old Pelé announced himself to the world, scoring 6 goals including 2 in the final. Brazil's first World Cup triumph introduced 'jogo bonito' (the beautiful game) to global audiences.",
+      "Brazil1958": "A 17-year-old Pelé announced himself to the world, scoring 6 goals including 2 in the final. Brazil's first championship triumph introduced 'jogo bonito' (the beautiful game) to global audiences.",
       "Brazil1962": "Despite losing Pelé to injury in the group stage, Garrincha stepped up brilliantly. His dribbling wizardry and 4 goals carried Brazil to back-to-back titles.",
-      "Brazil1970": "Widely considered the greatest World Cup team ever. Pelé, Jairzinho, Tostão, Gérson, and Rivelino played breathtaking football. Brazil won all 6 matches and kept the Jules Rimet trophy permanently.",
+      "Brazil1970": "Widely considered the greatest championship team ever. Pelé, Jairzinho, Tostão, Gérson, and Rivelino played breathtaking football. Brazil won all 6 matches and kept the Jules Rimet trophy permanently.",
       "Brazil1994": "After 24 years, Brazil returned to glory. Romário was the star with 5 goals. The final against Italy was decided on penalties after a 0-0 draw, with Roberto Baggio's famous miss.",
       "Brazil2002": "The 'Three Rs' - Ronaldo, Rivaldo, and Ronaldinho - led Brazil to their 5th title. Ronaldo scored 8 goals including both in the final, completing his redemption after 1998.",
       "Germany1954": "The 'Miracle of Bern'. West Germany defeated the mighty Hungarians who had beaten them 8-3 in the group stage. Helmut Rahn scored the winning goal in a stunning 3-2 comeback victory.",
       "Germany1974": "Franz Beckenbauer's 'Der Kaiser' era. Despite going behind to a Cruyff-inspired Dutch penalty, Gerd Müller's winning goal secured the title on home soil.",
       "Germany1990": "Redemption for 1986. Andreas Brehme's late penalty defeated Maradona's Argentina in a rematch of the previous final. Lothar Matthäus was the driving force.",
       "Germany2014": "The historic 7-1 demolition of Brazil in Belo Horizonte stunned the world. Mario Götze's extra-time winner in the final secured Germany's 4th title.",
-      "Italy1934": "Italy's first World Cup on home soil. Coach Vittorio Pozzo's team came from behind in the final, with Angelo Schiavio scoring the winner in extra time.",
-      "Italy1938": "Back-to-back titles under Pozzo. Silvio Piola starred with 5 goals as Italy became the first nation to successfully defend the World Cup.",
+      "Italy1934": "Italy's first championship on home soil. Coach Vittorio Pozzo's team came from behind in the final, with Angelo Schiavio scoring the winner in extra time.",
+      "Italy1938": "Back-to-back titles under Pozzo. Silvio Piola starred with 5 goals as Italy became the first nation to successfully defend the championship.",
       "Italy1982": "Paolo Rossi's redemption after a match-fixing ban. His hat-trick against Brazil and 6 tournament goals led Italy to glory. Marco Tardelli's iconic celebration in the final.",
       "Italy2006": "Gianluigi Buffon and the Italian defense were nearly impenetrable. The final is remembered for Zidane's headbutt. Fabio Grosso scored the winning penalty.",
-      "Argentina1978": "Argentina's first World Cup on home soil amid political controversy. Mario Kempes was the star with 6 goals including 2 in the final against the Netherlands.",
+      "Argentina1978": "Argentina's first championship on home soil amid political controversy. Mario Kempes was the star with 6 goals including 2 in the final against the Netherlands.",
       "Argentina1986": "Diego Maradona's tournament. His 'Hand of God' and 'Goal of the Century' against England defined the competition. He dragged Argentina to glory almost single-handedly.",
       "Argentina2022": "Lionel Messi's crowning glory. After a shock opening loss to Saudi Arabia, Argentina recovered brilliantly. The final against France is considered the greatest ever, with Messi finally lifting the trophy.",
-      "France1998": "France's first World Cup on home soil. Zinedine Zidane's two headers in the final crushed Brazil. The multiethnic squad united the nation under 'Black-Blanc-Beur'.",
+      "France1998": "France's first championship on home soil. Zinedine Zidane's two headers in the final crushed Brazil. The multiethnic squad united the nation under 'Black-Blanc-Beur'.",
       "France2018": "A young, talented squad led by 19-year-old Kylian Mbappé. Antoine Griezmann and Paul Pogba starred as France claimed their second title with dominant attacking play.",
-      "Uruguay1930": "The first ever World Cup, hosted to celebrate Uruguay's centenary. Despite trailing 2-1 at halftime, Uruguay stormed back to beat rivals Argentina in the inaugural final.",
+      "Uruguay1930": "The first ever championship, hosted to celebrate Uruguay's centenary. Despite trailing 2-1 at halftime, Uruguay stormed back to beat rivals Argentina in the inaugural final.",
       "Uruguay1950": "The 'Maracanazo'. Uruguay silenced 200,000 fans in Rio's Maracanã, coming from behind to beat Brazil 2-1 in the deciding match. One of football's greatest upsets.",
-      "England1966": "England's only World Cup. Geoff Hurst's hat-trick in the final, including the controversial 'Wembley Goal', secured victory. Bobby Moore lifted the Jules Rimet trophy.",
+      "England1966": "England's only championship. Geoff Hurst's hat-trick in the final, including the controversial 'Wembley Goal', secured victory. Bobby Moore lifted the Jules Rimet trophy.",
       "Spain2010": "Tiki-taka perfection. Despite losing the opener, Spain's possession-based football prevailed. Andrés Iniesta's extra-time winner against Netherlands completed their 2008-2012 dominance."
     },
     "tabs": {
@@ -846,7 +846,7 @@
       "economy": "Economy",
       "business": "Business",
       "firstClass": "First",
-      "pricingNote": "Prices shown are estimated round-trip fares and may vary based on booking date, season, and availability. All prices in USD. Book early for best rates during the World Cup period."
+      "pricingNote": "Prices shown are estimated round-trip fares and may vary based on booking date, season, and availability. All prices in USD. Book early for best rates during the championship period."
     },
     "domesticFlights": {
       "title": "Domestic Flights",
@@ -986,7 +986,7 @@
         "midsize": "Midsize",
         "suv": "SUV",
         "luxury": "Luxury",
-        "pricingNote": "Prices shown are estimated daily rates and may vary based on season, availability, and vehicle type. Book in advance for best rates during the World Cup period."
+        "pricingNote": "Prices shown are estimated daily rates and may vary based on season, availability, and vehicle type. Book in advance for best rates during the championship period."
       }
     },
     "tips": {
@@ -996,7 +996,7 @@
       },
       "budgetWisely": {
         "title": "Budget Wisely",
-        "tip": "Prices surge during World Cup. Compare options and consider multi-city passes"
+        "tip": "Prices surge during championship. Compare options and consider multi-city passes"
       },
       "knowYourVenue": {
         "title": "Know Your Venue",
@@ -1004,7 +1004,7 @@
       },
       "stayInformed": {
         "title": "Stay Informed",
-        "tip": "Download local transit apps and follow official FIFA transportation updates"
+        "tip": "Download local transit apps and follow official transportation updates"
       }
     },
     "stations": {
@@ -1033,7 +1033,7 @@
       "localTransit": "Local Transit to Stadium",
       "duration": "Duration",
       "frequency": "Frequency",
-      "pricingNote": "Prices shown are estimated fares and may vary based on booking date, season, and availability. Book in advance for best rates during the World Cup period.",
+      "pricingNote": "Prices shown are estimated fares and may vary based on booking date, season, and availability. Book in advance for best rates during the championship period.",
       "destinations": {
         "boston": "Boston",
         "philadelphia": "Philadelphia",
@@ -1122,7 +1122,7 @@
       "matchDayServices": "Match Day Services",
       "duration": "Duration",
       "price": "Price",
-      "priceDisclaimer": "Prices shown are estimated one-way fares and may vary based on booking date, season, and availability. Book in advance for best rates during the World Cup period.",
+      "priceDisclaimer": "Prices shown are estimated one-way fares and may vary based on booking date, season, and availability. Book in advance for best rates during the championship period.",
       "matchDayDescriptions": {
         "njTransitMetLife": "NJ Transit express buses to MetLife Stadium",
         "charterManhattan": "Private charter shuttles from Manhattan",
@@ -1207,7 +1207,7 @@
       "midsize": "Midsize",
       "suv": "SUV",
       "luxury": "Luxury",
-      "pricingNote": "Prices shown are estimated daily rates and may vary based on season, availability, and vehicle type. Book in advance for best rates during the World Cup period.",
+      "pricingNote": "Prices shown are estimated daily rates and may vary based on season, availability, and vehicle type. Book in advance for best rates during the championship period.",
       "descriptions": {
         "airportCityLocations": "Airport & city locations",
         "neighborhoodPickup": "Neighborhood pickup available",
@@ -1435,7 +1435,7 @@
   },
   "profile": {
     "title": "Profile",
-    "attendeeTitle": "2026 World Cup Attendee",
+    "attendeeTitle": "2026 Championship Attendee",
     "personalInfo": "Personal Information",
     "displayName": "Display Name",
     "displayNamePlaceholder": "Your name",
@@ -1447,7 +1447,7 @@
     "homeCityPlaceholder": "Where are you traveling from?",
     "nationality": "Nationality",
     "nationalityPlaceholder": "Your country of citizenship",
-    "worldCupPrefs": "World Cup Preferences",
+    "worldCupPrefs": "Championship Preferences",
     "favoriteTeam": "Favorite Team",
     "selectTeam": "Select your team",
     "arrivalDate": "Arrival Date",
@@ -1499,17 +1499,17 @@
   },
   "planner": {
     "title": "Planner",
-    "description": "Plan your World Cup 2026 experience. Create trips to organize transportation, lodging, dining, and match tickets.",
+    "description": "Plan your Championship 2026 experience. Create trips to organize transportation, lodging, dining, and match tickets.",
     "currencyConverter": "Currency Converter",
     "convertCurrencies": "Convert between 16+ currencies",
     "loadingTrips": "Loading trips...",
     "noTrips": "No Trips Yet",
-    "noTripsMessage": "Start planning your World Cup adventure by creating your first trip.",
+    "noTripsMessage": "Start planning your championship adventure by creating your first trip.",
     "createFirstTrip": "Create Your First Trip",
     "createTrip": "Create Trip",
     "creating": "Creating...",
     "tripName": "Trip Name",
-    "tripNamePlaceholder": "e.g., World Cup 2026 Adventure",
+    "tripNamePlaceholder": "e.g., Championship 2026 Adventure",
     "startDate": "Start Date",
     "endDate": "End Date",
     "notes": "Notes (Optional)",
@@ -1651,7 +1651,7 @@
     "showAll": "Show All",
     "perPerson": "per person",
     "visitWebsite": "Visit Website",
-    "disclaimer": "Prices and availability may vary. Reservations recommended during World Cup dates. Contact restaurants directly for current hours and booking.",
+    "disclaimer": "Prices and availability may vary. Reservations recommended during championship dates. Contact restaurants directly for current hours and booking.",
     "cuisines": {
       "American": "American",
       "Asian": "Asian",
@@ -2499,11 +2499,11 @@
       }
     },
     "perNight": "per night",
-    "disclaimer": "Prices shown are estimated nightly rates and may vary based on dates and availability. Book well in advance for World Cup dates as demand will be extremely high."
+    "disclaimer": "Prices shown are estimated nightly rates and may vary based on dates and availability. Book well in advance for championship dates as demand will be extremely high."
   },
   "criticalInfo": {
     "title": "Critical Info",
-    "subtitle": "Essential safety and travel information for FIFA 2026 World Cup visitors.",
+    "subtitle": "Essential safety and travel information for the 2026 Championship championship visitors.",
     "solution": "Solution",
     "preventionTips": "Prevention Tips",
     "viewModes": {
@@ -2539,7 +2539,7 @@
       "ticketScams": {
         "title": "Ticket and Merchandise Scams",
         "description": "Fake tickets and counterfeit jerseys sold outside stadiums.",
-        "tips": "Only buy from official apps (Ticketmaster, FIFA). Never buy from individuals on the street."
+        "tips": "Only buy from official apps (Ticketmaster). Never buy from individuals on the street."
       },
       "carBreakIns": {
         "title": "Car Break-Ins & Parking Lot Safety",
@@ -2697,8 +2697,8 @@
           "title": "B-1/B-2 Visa",
           "description": "Required for Brazil, Argentina, Mexico, Colombia, etc."
         },
-        "fifa-pass": {
-          "title": "FIFA Pass",
+        "tournament-pass": {
+          "title": "Tournament Pass",
           "description": "Expedited visa interviews for official ticket holders"
         }
       },
@@ -2767,7 +2767,7 @@
       "cities": {
         "miami": {
           "heatWarning": "Heat index can reach 120°F (49°C) in June/July. High humidity makes cooling difficult. Heat exhaustion is a serious risk.",
-          "ticketScams": "Beware of fake tickets sold near Hard Rock Stadium. Only buy from FIFA.com or Ticketmaster. Counterfeit jerseys common on streets.",
+          "ticketScams": "Beware of fake tickets sold near Hard Rock Stadium. Only buy from official ticket sources or Ticketmaster. Counterfeit jerseys common on streets.",
           "localConcerns": [
             "Hurricane season runs June-November - monitor weather alerts",
             "Strong sun exposure - wear SPF 50+ and reapply frequently",
@@ -2900,7 +2900,7 @@
         },
         "san-francisco": {
           "heatWarning": "SF itself is cool (60-70°F) but Levi's Stadium in Santa Clara can reach 95°F+. Dress in layers.",
-          "ticketScams": "Tech-savvy scammers create sophisticated fake ticket sites. Only use FIFA.com or Ticketmaster.",
+          "ticketScams": "Tech-savvy scammers create sophisticated fake ticket sites. Only use official ticket sources or Ticketmaster.",
           "localConcerns": [
             "Stadium 45 miles from SF - plan transportation",
             "Smash-and-grab car break-ins epidemic - never leave anything in cars",
@@ -2976,7 +2976,7 @@
         },
         "mexico-city": {
           "heatWarning": "High altitude (7,350 ft) means cooler temps than expected (70-80°F). But altitude sickness is a concern - acclimatize before exertion.",
-          "ticketScams": "Azteca Stadium area has sophisticated scam operations. Counterfeit tickets look very real. Only buy from FIFA.com.",
+          "ticketScams": "Azteca Stadium area has sophisticated scam operations. Counterfeit tickets look very real. Only buy from official ticket sources.",
           "localConcerns": [
             "Altitude sickness - take it easy first 2 days",
             "Pickpocketing on Metro (especially Line B)",
@@ -2996,7 +2996,7 @@
         },
         "guadalajara": {
           "heatWarning": "Warm but not extreme (80-90°F). Rainy season June-October means afternoon thunderstorms daily.",
-          "ticketScams": "Estadio Akron area sees fake ticket sales. Only use official FIFA channels.",
+          "ticketScams": "Estadio Akron area sees fake ticket sales. Only use official ticket channels.",
           "localConcerns": [
             "Jalisco state has cartel presence - stick to tourist areas",
             "Motorcycle phone-snatchers in Colonia Americana & Centro",
@@ -3217,7 +3217,7 @@
           "title": "NOISEMAKERS",
           "airhorns": {
             "name": "Air Horns & Vuvuzelas",
-            "description": "No air horns, vuvuzelas, or compressed air noisemakers. These are strictly banned at all FIFA events.",
+            "description": "No air horns, vuvuzelas, or compressed air noisemakers. These are strictly banned at all tournament events.",
             "penalty": "Confiscation"
           },
           "drums": {
@@ -3263,7 +3263,7 @@
           },
           "political": {
             "name": "Political/Offensive Material",
-            "description": "No political banners, discriminatory symbols, or offensive materials. FIFA has strict anti-discrimination policies.",
+            "description": "No political banners, discriminatory symbols, or offensive materials. The tournament has strict anti-discrimination policies.",
             "penalty": "Denied entry, possible ban"
           }
         }
@@ -3271,7 +3271,7 @@
     },
     "tvGuideSection": {
       "title": "TV Guide",
-      "subtitle": "How to watch FIFA World Cup 2026 - All 104 matches, June 11 - July 19",
+      "subtitle": "How to watch International Soccer Championship 2026 - All 104 matches, June 11 - July 19",
       "tabs": {
         "english": "English",
         "spanish": "Spanish",
@@ -3286,7 +3286,7 @@
     },
     "transportSection": {
       "title": "Private Transport",
-      "subtitle": "Private jets, aircraft, and yacht information for World Cup host cities",
+      "subtitle": "Private jets, aircraft, and yacht information for championship host cities",
       "tabs": {
         "jets": "Private Jets",
         "yachts": "Yachts",
@@ -3354,7 +3354,7 @@
       },
       "yachtInfo": {
         "title": "Superyacht Berths",
-        "description": "Book marina berths 6+ months ahead during World Cup. Miami has the best superyacht infrastructure in the US."
+        "description": "Book marina berths 6+ months ahead during championship. Miami has the best superyacht infrastructure in the US."
       },
       "maxLength": "Max",
       "yachtChecklist": {
@@ -3401,7 +3401,7 @@
         }
       },
       "tips": [
-        "Book FBO slots early during World Cup - demand will be extremely high",
+        "Book FBO slots early during championship - demand will be extremely high",
         "Helicopter transfers available from most major airports to stadiums",
         "Mexico City private jets MUST use Toluca (TLC), not MEX airport",
         "Yacht berths in Miami will be premium - book 6+ months ahead",
@@ -3495,14 +3495,14 @@
   },
   "concierge": {
     "title": "AI Concierge",
-    "subtitle": "Your World Cup travel expert",
+    "subtitle": "Your championship travel expert",
     "welcome": "Welcome!",
-    "welcomeMessage": "I'm your AI concierge for FIFA 2026. Ask me anything about travel, dining, lodging, or the tournament!",
+    "welcomeMessage": "I'm your AI concierge for the 2026 Championship. Ask me anything about travel, dining, lodging, or the tournament!",
     "selectCategory": "What can I help you with?",
     "orTypeQuestion": "Or type your own question below",
     "changeCategory": "Change",
     "suggestedQuestions": "Popular questions:",
-    "inputPlaceholder": "Ask me anything about World Cup 2026...",
+    "inputPlaceholder": "Ask me anything about Championship 2026...",
     "thinking": "Thinking...",
     "error": "I'm sorry, I encountered an error. Please try again.",
     "messageInfo": "1 message = up to 4,000 characters (your question + AI response combined).",
@@ -3513,7 +3513,7 @@
         "title": "Dining",
         "prompts": {
           "bestRestaurants": "What are the best restaurants near the stadium in Miami?",
-          "budgetEats": "Where can I find affordable food in New York during World Cup?",
+          "budgetEats": "Where can I find affordable food in New York during championship?",
           "localSpecialties": "What local dishes should I try in Mexico City?",
           "matchDayFood": "Best places to eat before a match in Los Angeles?"
         }
@@ -3522,18 +3522,18 @@
         "title": "Lodging",
         "prompts": {
           "nearStadium": "Hotels within walking distance of MetLife Stadium?",
-          "budgetHotels": "Budget-friendly accommodations in Dallas for World Cup?",
+          "budgetHotels": "Budget-friendly accommodations in Dallas for championship?",
           "luxuryStay": "Best luxury hotels in Miami for the tournament?",
-          "airbnbVsHotel": "Should I book Airbnb or hotel for World Cup in Toronto?"
+          "airbnbVsHotel": "Should I book Airbnb or hotel for championship in Toronto?"
         }
       },
       "activities": {
         "title": "Activities",
         "prompts": {
           "mustSee": "Must-see attractions in Los Angeles between matches?",
-          "fanZones": "Where are the official FIFA Fan Zones located?",
+          "fanZones": "Where are the official Fan Zones located?",
           "nightlife": "Best nightlife areas in Miami for soccer fans?",
-          "familyFriendly": "Family-friendly activities in Seattle during World Cup?"
+          "familyFriendly": "Family-friendly activities in Seattle during championship?"
         }
       },
       "travel": {
@@ -3542,14 +3542,14 @@
           "cityToCity": "Best way to travel from Los Angeles to Dallas?",
           "airportTransfer": "How to get from JFK to MetLife Stadium?",
           "publicTransit": "Can I use public transit to reach the stadium in Toronto?",
-          "carRental": "Should I rent a car in Houston for the World Cup?"
+          "carRental": "Should I rent a car in Houston for the championship?"
         }
       },
       "general": {
         "title": "General Info",
         "prompts": {
-          "visaInfo": "What visa do I need for World Cup in USA, Canada, and Mexico?",
-          "stadiumRules": "What items are prohibited at World Cup stadiums?",
+          "visaInfo": "What visa do I need for championship in USA, Canada, and Mexico?",
+          "stadiumRules": "What items are prohibited at championship stadiums?",
           "safetyTips": "Safety tips for traveling to Mexico City?",
           "currencyExchange": "Best way to handle currency in the three host countries?"
         }
@@ -3560,10 +3560,10 @@
       "laToDallas": "How to get from LA to Dallas?",
       "visaRequirements": "Visa requirements for US entry",
       "stadiumItems": "What can I bring to the stadium?",
-      "restaurants": "Best restaurants near a World Cup stadium?",
-      "hotels": "Hotels near a World Cup venue?",
+      "restaurants": "Best restaurants near a championship stadium?",
+      "hotels": "Hotels near a championship venue?",
       "transportation": "Best way to travel between host cities?",
-      "stadiumTips": "What items are prohibited at World Cup stadiums?"
+      "stadiumTips": "What items are prohibited at championship stadiums?"
     },
     "tryAsking": "Try asking...",
     "talkToConcierge": "Talk to Concierge",
@@ -3621,7 +3621,7 @@
   },
   "players": {
     "title": "Player Profiles",
-    "subtitle": "Explore the stars of World Cup 2026",
+    "subtitle": "Explore the stars of Championship 2026",
     "loading": "Loading players...",
     "searchPlaceholder": "Search by name, position, or club...",
     "allTeams": "All Teams",
@@ -3646,7 +3646,7 @@
     "totalAssists": "Total Assists",
     "watchHighlights": "Watch Highlights",
     "fullBiography": "Full Biography",
-    "rosterNotice": "Player rosters will be updated as national teams announce their official World Cup 2026 squads. Final 26-man rosters expected May/June 2026."
+    "rosterNotice": "Player rosters will be updated as national teams announce their official Championship 2026 squads. Final 26-man rosters expected May/June 2026."
   },
   "stadiumSeating": {
     "title": "Stadium Seating",
@@ -3656,9 +3656,9 @@
     "selectPrompt": "Choose a Stadium",
     "selectDescription": "Select a venue above to view seating sections and pricing information",
     "capacity": "Capacity",
-    "pricingNote": "How FIFA Pricing Works",
-    "pricingDisclaimer": "FIFA uses dynamic pricing - Group Stage matches start around $60-$250 USD, while the Final ranges from $1,825-$6,730 USD. Category 4 seats are restricted to US, Canada & Mexico residents only.",
-    "sectionLegend": "FIFA Ticket Categories",
+    "pricingNote": "How Ticket Pricing Works",
+    "pricingDisclaimer": "The tournament uses dynamic pricing - Group Stage matches start around $60-$250 USD, while the Final ranges from $1,825-$6,730 USD. Category 4 seats are restricted to US, Canada & Mexico residents only.",
+    "sectionLegend": "Ticket Categories",
     "viewOfficialMaps": "View Official Maps",
     "sectionTypes": {
       "category1": "Category 1",
@@ -3687,8 +3687,8 @@
     "allSections": "All Sections",
     "upTo": "up to",
     "buyTickets": "Get Tickets",
-    "ticketDisclaimer": "Official tickets are only available through FIFA and authorized resellers. Visit the official FIFA ticketing portal for availability.",
-    "visitFifa": "Visit FIFA Tickets",
+    "ticketDisclaimer": "Official tickets are only available through official channels and authorized resellers. Visit the official ticketing portal for availability.",
+    "visitTickets": "Get Tickets",
     "sectionDetails": "Section Details",
     "basePrice": "Base Price",
     "premiumPrice": "Premium Price",
@@ -3696,15 +3696,15 @@
     "viewQuality": "View Quality",
     "seatCapacity": "Seat Capacity",
     "amenities": "Amenities",
-    "checkAvailability": "Check Availability on FIFA"
+    "checkAvailability": "Check Availability"
   },
   "odds": {
     "title": "Tournament Odds",
-    "subtitle": "Current betting odds for World Cup 2026",
+    "subtitle": "Current betting odds for Championship 2026",
     "disclaimer": "For Informational Purposes Only",
     "disclaimerDetail": "Odds shown are for entertainment and informational purposes only. Actual odds vary by sportsbook and change frequently. Always gamble responsibly.",
     "championshipOdds": "Championship Winner Odds",
-    "championshipDescription": "Current Vegas odds for teams to win the 2026 World Cup. Positive numbers show potential profit on a $100 bet.",
+    "championshipDescription": "Current Vegas odds for teams to win the 2026 Championship. Positive numbers show potential profit on a $100 bet.",
     "groupWinners": "Group Stage Winner Odds",
     "groupDescription": "Odds to finish first in each group. Negative numbers indicate favorites.",
     "group": "Group",
@@ -3739,7 +3739,7 @@
   "landing": {
     "tournamentDates": "June 11 - July 19, 2026",
     "heroTitle1": "Your Essential",
-    "heroTitle2": "2026 World Cup",
+    "heroTitle2": "2026 Championship",
     "heroTitle3": "Travel Companion",
     "heroSubtitle": "Navigate 16 host cities across USA, Canada & Mexico with confidence. Everything you need for the biggest sporting event in history.",
     "choosePlan": "Choose Your Plan",
@@ -3764,7 +3764,7 @@
     "feature5Desc": "Restaurant recommendations for every taste and budget",
     "feature6Title": "Religious Services",
     "feature6Desc": "Churches, mosques, and synagogues in all host cities",
-    "disclaimer": "This is an independent fan-made companion app and is not affiliated with, endorsed by, or connected to FIFA or any official organizing bodies.",
+    "disclaimer": "This is an independent fan-made companion app and is not affiliated with, endorsed by, or connected to any official organizing bodies.",
     "copyright": "2026 Championship Concierge"
   },
   "pricing": {
@@ -3785,7 +3785,7 @@
     "knockoutBrackets": "Knockout brackets",
     "fullSchedules": "Full match schedules",
     "tournamentNews": "Tournament news",
-    "worldCupHistory": "World Cup history",
+    "worldCupHistory": "Tournament history",
     "tournamentOdds": "Tournament odds",
     "getTeamInfo": "Get Team Info",
     "logistics": "Logistics",
@@ -3836,9 +3836,9 @@
   },
   "bracket": {
     "title": "Bracket Challenge",
-    "subtitle": "Pick your World Cup 2026 winners",
+    "subtitle": "Pick your Championship 2026 winners",
     "yourPick": "Your Champion Pick",
-    "champion2026": "World Cup 2026 Champion",
+    "champion2026": "Championship 2026 Champion",
     "complete": "Complete",
     "selectChampion": "Complete the bracket to select your champion",
     "reset": "Reset",
@@ -3856,7 +3856,7 @@
     "pickWinner": "Pick Winner",
     "selectTeam": "Select Team",
     "winnerOf": "Winner of",
-    "worldCupFinal": "World Cup Final",
+    "worldCupFinal": "Championship Final",
     "selectWinnersToAdvance": "Select winners to advance teams to the next round",
     "howItWorks": "How It Works",
     "step1Title": "Step 1: Round of 32 (Manual)",
@@ -3864,7 +3864,7 @@
     "step2Title": "Step 2: Later Rounds (Automatic)",
     "step2Desc": "From Round of 16 onwards, teams are automatically loaded based on your previous picks. The winners you selected will appear as the contenders. Simply tap to pick who advances.",
     "step3Title": "Step 3: Pick Your Champion",
-    "step3Desc": "Continue picking winners through Quarterfinals, Semifinals, and the Final to select your predicted World Cup 2026 Champion!",
+    "step3Desc": "Continue picking winners through Quarterfinals, Semifinals, and the Final to select your predicted Championship 2026 Champion!",
     "noteTitle": "Important Note",
     "noteDesc": "If you change a pick in an earlier round, all dependent picks in later rounds will be cleared automatically. Your progress is saved automatically."
   },
@@ -3873,7 +3873,7 @@
     "subtitle": "Watch parties around the world for the 48 qualified nations",
     "searchPlaceholder": "Search by country or city...",
     "infoTitle": "Find Your Community",
-    "infoDescription": "Whether you're traveling during the World Cup or watching from home, find the biggest and best watch party locations in each qualifying nation. These official and community-organized fan zones bring together supporters from around the globe.",
+    "infoDescription": "Whether you're traveling during the championship or watching from home, find the biggest and best watch party locations in each qualifying nation. These official and community-organized fan zones bring together supporters from around the globe.",
     "capacity": "Capacity",
     "noResults": "No watch hubs found for your search",
     "countries": "countries",

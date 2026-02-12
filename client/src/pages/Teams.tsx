@@ -73,7 +73,7 @@ export default function Teams() {
           <p className="text-sm text-gray-700">
             <span className="font-bold text-gray-900">{t("teams.qualifiedCount", "42 of 48 teams qualified")}</span>
             {" • "}
-            {t("teams.playoffInfo", "The final 6 teams will be determined through the FIFA Play-Off Tournament in March 2026 featuring: Bolivia, Congo DR, Iraq, Jamaica, New Caledonia, and Suriname competing for the remaining spots.")}
+            {t("teams.playoffInfo", "The final 6 teams will be determined through the Play-Off Tournament in March 2026 featuring: Bolivia, Congo DR, Iraq, Jamaica, New Caledonia, and Suriname competing for the remaining spots.")}
           </p>
         </div>
 

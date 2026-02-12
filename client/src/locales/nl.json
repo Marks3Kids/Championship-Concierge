@@ -1,6 +1,6 @@
 {
   "header": {
-    "worldCup": "Kampioenschap",
+    "championship": "Kampioenschap",
     "companion": "Concierge",
     "year": "2026"
   },
@@ -82,7 +82,7 @@
     "Bolivia": "La Verde gebruikte het thuisvoordeel van de hoogte effectief. Het team toonde veerkracht in de Zuid-Amerikaanse kwalificatie.",
     "DR Congo": "De Luipaarden kwalificeerden zich voor hun eerste WK sinds 1974. Een historische prestatie voor het Congolese voetbal.",
     "Iraq": "De Leeuwen van Mesopotamië toonden veelbelovende vorm. Een mix van jeugd en ervaring dreef hun kwalificatiecampagne.",
-    "Jordan": "Al-Nashama schreef geschiedenis door zich te kwalificeren voor hun allereerste FIFA Wereldbeker. Onder coach Jamal Sellami bereikte Jordanië de finale van de FIFA Arabische Beker 2025 en domineerde de Aziatische kwalificatie met klinische prestaties."
+    "Jordan": "Al-Nashama schreef geschiedenis door zich te kwalificeren voor hun allereerste tournament Wereldbeker. Onder coach Jamal Sellami bereikte Jordanië de finale van de tournament Arabische Beker 2025 en domineerde de Aziatische kwalificatie met klinische prestaties."
   },
   "common": {
     "back": "Terug",
@@ -102,7 +102,7 @@
     "tip": "Tip",
     "previous": "Vorige",
     "next": "Volgende",
-    "dataDisclaimer": "Gegevens geleverd door externe bronnen, waaronder FIFA.com, ESPN, BBC Sport en Sky Sports."
+    "dataDisclaimer": "Gegevens geleverd door externe bronnen, waaronder tournament.com, ESPN, BBC Sport en Sky Sports."
   },
   "bracket": {
     "title": "Knock-out Schema",
@@ -123,7 +123,7 @@
     "finalMatch": "De Finale",
     "finalInfo": "De finale wordt gespeeld in het MetLife Stadium in New York/New Jersey",
     "aboutTitle": "Over de Knock-out Fase",
-    "aboutDescription": "De knock-out fase van het FIFA WK 2026 begint na de groepsfase, met 32 teams die strijden in directe eliminatiewedstrijden in 16 gaststeden in de VS, Canada en Mexico."
+    "aboutDescription": "De knock-out fase van het tournament WK 2026 begint na de groepsfase, met 32 teams die strijden in directe eliminatiewedstrijden in 16 gaststeden in de VS, Canada en Mexico."
   },
   "nav": {
     "home": "Home",
@@ -147,7 +147,7 @@
     "stadiumSeating": "Stadionzitplaatsen"
   },
   "home": {
-    "title": "FIFA",
+    "title": "tournament",
     "year": "2026",
     "tagline": "De wereld komt naar Noord-Amerika",
     "updateInfo": "Deze app wordt regelmatig bijgewerkt met de laatste informatie tot het einde van het WK 2026 en tot in augustus 2026.",
@@ -172,7 +172,7 @@
   },
   "legal": {
     "title": "Juridische Informatie",
-    "disclaimer": "DISCLAIMER: Deze applicatie is een onafhankelijke, door fans gemaakte begeleidende app en is niet gelieerd aan, goedgekeurd door of verbonden met FIFA, het FIFA Wereldkampioenschap of enige officiële organiserende instanties.",
+    "disclaimer": "DISCLAIMER: Deze applicatie is een onafhankelijke, door fans gemaakte begeleidende app en is niet gelieerd aan, goedgekeurd door of verbonden met tournament, het tournament Wereldkampioenschap of enige officiële organiserende instanties.",
     "noAffiliation": "Alle handelsmerken, logo's en merknamen zijn eigendom van hun respectieve eigenaars. Elk gebruik van deze merken is uitsluitend voor informatieve doeleinden en impliceert geen goedkeuring.",
     "informationalPurposes": "De informatie in deze app wordt uitsluitend verstrekt voor algemene informatiedoeleinden. Hoewel we ernaar streven de informatie up-to-date en nauwkeurig te houden, doen we geen verklaringen of garanties van welke aard dan ook over de volledigheid, nauwkeurigheid, betrouwbaarheid of beschikbaarheid van de informatie.",
     "thirdPartyLinks": "Deze app kan links bevatten naar websites en diensten van derden. Wij zijn niet verantwoordelijk voor de inhoud, nauwkeurigheid of praktijken van deze externe sites.",
@@ -182,7 +182,7 @@
     "intellectualProperty": "Alle content die voor deze app is gemaakt, met uitzondering van materialen van derden, is auteursrechtelijk beschermd. U mag niet reproduceren, distribueren of afgeleide werken maken zonder toestemming.",
     "liabilityLimitation": "In geen geval zijn de app-ontwikkelaars aansprakelijk voor directe, indirecte, incidentele, gevolgschade of speciale schade die voortvloeit uit uw gebruik van deze applicatie.",
     "privacyStatement": "Wij respecteren uw privacy. Alle verzamelde persoonlijke gegevens worden uitsluitend gebruikt om uw ervaring te verbeteren en worden niet gedeeld met derden zonder uw toestemming.",
-    "copyright": "© 2026 World Cup Companion. Alle rechten voorbehouden. Dit is een onofficiële fan-applicatie."
+    "copyright": "© 2026 championship Companion. Alle rechten voorbehouden. Dit is een onofficiële fan-applicatie."
   },
   "teams": {
     "title": "Gekwalificeerde Teams",
@@ -300,18 +300,18 @@
       "toronto": "BMO Field",
       "vancouver": "BC Place"
     },
-    "fifaStadiums": {
+    "tournamentStadiums": {
       "newYork": "New York/New Jersey Stadion",
-      "losAngeles": "Los Angeles Stadion FIFA",
-      "dallas": "Dallas Stadion FIFA",
-      "miami": "Miami Stadion FIFA",
-      "atlanta": "Atlanta Stadion FIFA",
-      "seattle": "Seattle Stadion FIFA",
+      "losAngeles": "Los Angeles Stadion tournament",
+      "dallas": "Dallas Stadion tournament",
+      "miami": "Miami Stadion tournament",
+      "atlanta": "Atlanta Stadion tournament",
+      "seattle": "Seattle Stadion tournament",
       "sanFrancisco": "San Francisco Bay Area Stadion",
       "houston": "Houston Stadion",
       "philadelphia": "Philadelphia Stadion",
-      "kansasCity": "Kansas City Stadion FIFA",
-      "boston": "Boston Stadion FIFA",
+      "kansasCity": "Kansas City Stadion tournament",
+      "boston": "Boston Stadion tournament",
       "toronto": "Toronto Stadion",
       "vancouver": "Vancouver Stadion",
       "guadalajara": "Guadalajara Stadion",
@@ -731,8 +731,8 @@
     "tapForDetails": "Tik voor details",
     "title_one": "titel",
     "title_other": "titels",
-    "worldCupTitle_one": "WK-titel",
-    "worldCupTitle_other": "WK-titels",
+    "championshipTitle_one": "WK-titel",
+    "championshipTitle_other": "WK-titels",
     "hostedBy": "Georganiseerd door",
     "matchResults": "Wedstrijdresultaten",
     "tournamentHighlight": "Toernooi Hoogtepunt",
@@ -974,7 +974,7 @@
       },
       "stayInformed": {
         "title": "Blijf Geïnformeerd",
-        "tip": "Download lokale vervoersapps en volg officiële FIFA-vervoersupdates"
+        "tip": "Download lokale vervoersapps en volg officiële tournament-vervoersupdates"
       }
     },
     "stations": {
@@ -1417,7 +1417,7 @@
     "homeCityPlaceholder": "Van waar reis je?",
     "nationality": "Nationaliteit",
     "nationalityPlaceholder": "Je land van staatsburgerschap",
-    "worldCupPrefs": "Voorkeuren WK",
+    "championshipPrefs": "Voorkeuren WK",
     "favoriteTeam": "Favoriete team",
     "selectTeam": "Selecteer je team",
     "arrivalDate": "Aankomstdatum",
@@ -2508,7 +2508,7 @@
       "ticketScams": {
         "title": "Ticket- en Merchandise Oplichting",
         "description": "Valse tickets en nagemaakte shirts verkocht buiten stadions.",
-        "tips": "Koop alleen via officiële apps (Ticketmaster, FIFA). Koop nooit van individuen op straat."
+        "tips": "Koop alleen via officiële apps (Ticketmaster, tournament). Koop nooit van individuen op straat."
       },
       "carBreakIns": {
         "title": "Auto-inbraken & Parkeerplaats Veiligheid",
@@ -2666,8 +2666,8 @@
           "title": "B-1/B-2 Visum",
           "description": "Vereist voor Brazilië, Argentinië, Mexico, Colombia, enz."
         },
-        "fifa-pass": {
-          "title": "FIFA Pass",
+        "tournament-pass": {
+          "title": "tournament Pass",
           "description": "Versnelde visum-interviews voor officiële tickethouders"
         }
       },
@@ -2736,7 +2736,7 @@
       "cities": {
         "miami": {
           "heatWarning": "De gevoelstemperatuur kan in juni/juli oplopen tot 49°C (120°F). Hoge luchtvochtigheid maakt afkoelen moeilijk. Hitte-uitputting is een serieus risico.",
-          "ticketScams": "Pas op voor neptickets die nabij Hard Rock Stadium worden verkocht. Koop alleen via FIFA.com of Ticketmaster. Namaakshirts zijn gangbaar op straat.",
+          "ticketScams": "Pas op voor neptickets die nabij Hard Rock Stadium worden verkocht. Koop alleen via tournament.com of Ticketmaster. Namaakshirts zijn gangbaar op straat.",
           "localConcerns": [
             "Orkaanseizoen loopt van juni tot november - volg weeralarmen",
             "Intense zonnestraling - gebruik SPF 50+ en smeer regelmatig opnieuw in",
@@ -2869,7 +2869,7 @@
         },
         "san-francisco": {
           "heatWarning": "SF zelf is koel (15-21°C / 60-70°F) maar Levi's Stadium in Santa Clara kan boven 35°C (95°F) komen. Kleed je in lagen.",
-          "ticketScams": "Tech-savvy oplichters maken geavanceerde nep-ticketsites. Gebruik alleen FIFA.com of Ticketmaster.",
+          "ticketScams": "Tech-savvy oplichters maken geavanceerde nep-ticketsites. Gebruik alleen tournament.com of Ticketmaster.",
           "localConcerns": [
             "Stadion ligt 72 km van SF - plan vervoer",
             "Epidemie van auto-inbraken - laat nooit iets in auto's achter",
@@ -2945,7 +2945,7 @@
         },
         "mexico-city": {
           "heatWarning": "Hoge ligging (2.240 m) betekent koelere temperaturen dan verwacht (21-27°C / 70-80°F). Maar hoogteziekte is een zorg - acclimatiseer voor inspanning.",
-          "ticketScams": "Het Azteca Stadium-gebied heeft geavanceerde oplichterij. Valse tickets zien er zeer echt uit. Koop alleen via FIFA.com.",
+          "ticketScams": "Het Azteca Stadium-gebied heeft geavanceerde oplichterij. Valse tickets zien er zeer echt uit. Koop alleen via tournament.com.",
           "localConcerns": [
             "Hoogteziekte - neem het de eerste 2 dagen rustig aan",
             "Zakkenrollerij in de metro (vooral lijn B)",
@@ -2965,7 +2965,7 @@
         },
         "guadalajara": {
           "heatWarning": "Warm maar niet extreem (27-32°C / 80-90°F). Regenseizoen juni-oktober betekent dagelijks middagonweer.",
-          "ticketScams": "Estadio Akron-gebied ziet nepticketverkoop. Gebruik alleen officiële FIFA-kanalen.",
+          "ticketScams": "Estadio Akron-gebied ziet nepticketverkoop. Gebruik alleen officiële tournament-kanalen.",
           "localConcerns": [
             "Staat Jalisco heeft kartelactiviteit - blijf in toeristische gebieden",
             "Motorscooter-telefoondieven in Colonia Americana & Centro",
@@ -3186,7 +3186,7 @@
           "title": "LAWAAÏMAKERS",
           "airhorns": {
             "name": "Luchthorens en Vuvuzela's",
-            "description": "Geen luchthorens, vuvuzela's of perslucht-lawaaïmakers. Deze zijn strikt verboden bij alle FIFA-evenementen.",
+            "description": "Geen luchthorens, vuvuzela's of perslucht-lawaaïmakers. Deze zijn strikt verboden bij alle tournament-evenementen.",
             "penalty": "Inbeslagname"
           },
           "drums": {
@@ -3232,7 +3232,7 @@
           },
           "political": {
             "name": "Politiek/Aanstootgevend Materiaal",
-            "description": "Geen politieke spandoeken, discriminerende symbolen of aanstootgevend materiaal. FIFA heeft strikt anti-discriminatiebeleid.",
+            "description": "Geen politieke spandoeken, discriminerende symbolen of aanstootgevend materiaal. tournament heeft strikt anti-discriminatiebeleid.",
             "penalty": "Toegang geweigerd, mogelijk stadionverbod"
           }
         }
@@ -3466,7 +3466,7 @@
     "title": "AI Conciërge",
     "subtitle": "Uw WK-reisexpert",
     "welcome": "Welkom!",
-    "welcomeMessage": "Ik ben je AI-conciërge voor FIFA 2026. Vraag me alles over reizen, restaurants, accommodatie of het toernooi!",
+    "welcomeMessage": "Ik ben je AI-conciërge voor tournament 2026. Vraag me alles over reizen, restaurants, accommodatie of het toernooi!",
     "selectCategory": "Hoe kan ik u helpen?",
     "orTypeQuestion": "Of typ hieronder uw eigen vraag",
     "changeCategory": "Wijzigen",
@@ -3500,7 +3500,7 @@
         "title": "Activiteiten",
         "prompts": {
           "mustSee": "Bezienswaardigheden in Los Angeles tussen wedstrijden?",
-          "fanZones": "Waar bevinden zich de officiële FIFA Fan Zones?",
+          "fanZones": "Waar bevinden zich de officiële tournament Fan Zones?",
           "nightlife": "Beste uitgaansgebieden in Miami voor voetbalfans?",
           "familyFriendly": "Gezinsvriendelijke activiteiten in Seattle tijdens het WK?"
         }
@@ -3620,9 +3620,9 @@
     "selectPrompt": "Kies een Stadion",
     "selectDescription": "Selecteer een stadion hierboven om secties en prijzen te bekijken",
     "capacity": "Capaciteit",
-    "pricingNote": "Hoe FIFA-prijzen Werken",
-    "pricingDisclaimer": "FIFA gebruikt dynamische prijzen - Groepsfasewedstrijden starten rond $60-$250 USD, terwijl de Finale varieert van $1.825-$6.730. Categorie 4-stoelen zijn beperkt tot inwoners van de VS, Canada en Mexico.",
-    "sectionLegend": "FIFA Ticketcategorieën",
+    "pricingNote": "Hoe tournament-prijzen Werken",
+    "pricingDisclaimer": "tournament gebruikt dynamische prijzen - Groepsfasewedstrijden starten rond $60-$250 USD, terwijl de Finale varieert van $1.825-$6.730. Categorie 4-stoelen zijn beperkt tot inwoners van de VS, Canada en Mexico.",
+    "sectionLegend": "tournament Ticketcategorieën",
     "viewOfficialMaps": "Bekijk Officiële Kaarten",
     "sectionTypes": {
       "category1": "Categorie 1",
@@ -3651,8 +3651,8 @@
     "allSections": "Alle Secties",
     "upTo": "tot",
     "buyTickets": "Tickets Verkrijgen",
-    "ticketDisclaimer": "Officiële tickets zijn alleen verkrijgbaar via FIFA en geautoriseerde verkopers.",
-    "visitFifa": "Bezoek FIFA Tickets",
+    "ticketDisclaimer": "Officiële tickets zijn alleen verkrijgbaar via tournament en geautoriseerde verkopers.",
+    "visitTickets": "Bezoek tournament Tickets",
     "sectionDetails": "Sectiedetails",
     "basePrice": "Basisprijs",
     "premiumPrice": "Premium Prijs",
@@ -3660,7 +3660,7 @@
     "viewQuality": "Zichtkwaliteit",
     "seatCapacity": "Zitcapaciteit",
     "amenities": "Voorzieningen",
-    "checkAvailability": "Beschikbaarheid Controleren op FIFA"
+    "checkAvailability": "Beschikbaarheid Controleren op tournament"
   },
   "odds": {
     "title": "Toernooi Odds",
@@ -3722,7 +3722,7 @@
     "pickWinner": "Kies Winnaar",
     "selectTeam": "Selecteer Team",
     "winnerOf": "Winnaar van",
-    "worldCupFinal": "WK Finale",
+    "championshipFinal": "WK Finale",
     "selectWinnersToAdvance": "Selecteer winnaars om teams naar de volgende ronde te laten gaan",
     "howItWorks": "Hoe Het Werkt",
     "step1Title": "Stap 1: 32ste Finales (Handmatig)",
@@ -3812,7 +3812,7 @@
     "knockoutBrackets": "Knock-out brackets",
     "fullSchedules": "Volledig speelschema",
     "tournamentNews": "Toernooi nieuws",
-    "worldCupHistory": "WK-geschiedenis",
+    "championshipHistory": "WK-geschiedenis",
     "tournamentOdds": "Toernooi kansen",
     "getTeamInfo": "Team Info Krijgen",
     "logistics": "Logistiek",

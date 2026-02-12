@@ -92,7 +92,7 @@ export function KnockoutBracketModal({ isOpen, onClose }: KnockoutBracketModalPr
                   {t("bracket.title", "Knockout Brackets")}
                 </DialogTitle>
                 <p className="text-sm text-gray-400 mt-1">
-                  {t("bracket.subtitle", "2026 FIFA World Cup Tournament Structure")}
+                  {t("bracket.subtitle", "2026 Championship Tournament Structure")}
                 </p>
               </div>
             </div>
@@ -278,7 +278,7 @@ export function KnockoutBracketModal({ isOpen, onClose }: KnockoutBracketModalPr
             <p className="text-xs text-gray-400 leading-relaxed">
               {t(
                 "bracket.aboutDescription",
-                "The 2026 FIFA World Cup knockout stage begins after the group stage, featuring 32 teams competing in single-elimination matches across 16 host cities in the USA, Canada, and Mexico. Team positions will be determined by the official FIFA draw."
+                "The 2026 championship knockout stage begins after the group stage, featuring 32 teams competing in single-elimination matches across 16 host cities in the USA, Canada, and Mexico. Team positions will be determined by the official tournament draw."
               )}
             </p>
           </div>

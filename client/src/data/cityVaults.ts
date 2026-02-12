@@ -65,7 +65,7 @@ export interface RideshareZone {
 }
 
 export interface StadiumAccess {
-  fifaStadiumName: string;
+  tournamentStadiumName: string;
   regularStadiumName: string;
   mobilityMapUrl?: string;
   lastMileWalkingGuideUrl?: string;
@@ -125,7 +125,7 @@ export const cityVaults: CityVault[] = [
       { name: "Cathedral of the Immaculate Conception", type: "catholic", description: "Centrally located downtown", mapsUrl: "https://www.google.com/maps/search/cathedral+immaculate+conception+kansas+city" }
     ],
     watchParties: [
-      { name: "Liberty Memorial (WWI Museum)", type: "vibe", description: "Official FIFA Fan Festival - 65-foot 'KC Heart Gateway' and 4,500 sq ft video boards. Best for families.", capacity: "25,000+", mapsUrl: "https://www.google.com/maps/search/liberty+memorial+kansas+city" },
+      { name: "Liberty Memorial (WWI Museum)", type: "vibe", description: "Official Fan Festival - 65-foot 'KC Heart Gateway' and 4,500 sq ft video boards. Best for families.", capacity: "25,000+", mapsUrl: "https://www.google.com/maps/search/liberty+memorial+kansas+city" },
       { name: "KC Live! (Power & Light)", type: "energy", description: "High-intensity, adult-focused, surrounded by bars. Where viral goal reactions happen.", capacity: "10,000+", mapsUrl: "https://www.google.com/maps/search/power+and+light+district+kansas+city" },
       { name: "North Kansas City (Northtown)", type: "local", description: "Curated local business vibe with fewer crowds than official Fan Fest", capacity: "3,000", mapsUrl: "https://www.google.com/maps/search/northtown+kansas+city" }
     ],
@@ -147,7 +147,7 @@ export const cityVaults: CityVault[] = [
       }
     ],
     stadiumAccess: {
-      fifaStadiumName: "Kansas City Stadium FIFA",
+      tournamentStadiumName: "Kansas City Stadium",
       regularStadiumName: "GEHA Field at Arrowhead Stadium",
       adaGates: [
         { name: "Gate D", description: "Main ADA entrance - West side", mapsUrl: "https://www.google.com/maps/search/Arrowhead+Stadium+Gate+D+Kansas+City" },
@@ -158,7 +158,7 @@ export const cityVaults: CityVault[] = [
         { name: "Lot M Rideshare", type: "both", description: "Primary Uber/Lyft zone - North lot", mapsUrl: "https://www.google.com/maps/search/Arrowhead+Stadium+Lot+M+Kansas+City" },
         { name: "Red Lot Drop-off", type: "dropoff", description: "Match day drop-off only", mapsUrl: "https://www.google.com/maps/search/Arrowhead+Stadium+Red+Lot+Kansas+City" }
       ],
-      gateAssignments: "Gate assignments will be published by FIFA 30 days before tournament"
+      gateAssignments: "Gate assignments will be published 30 days before tournament"
     }
   },
   {
@@ -198,7 +198,7 @@ export const cityVaults: CityVault[] = [
       { name: "Riverside Church", type: "protestant", description: "Interdenominational church with stunning views", mapsUrl: "https://www.google.com/maps/search/riverside+church+new+york" }
     ],
     watchParties: [
-      { name: "Times Square Fan Festival", type: "vibe", description: "Official FIFA Fan Festival - massive screens in the heart of NYC", capacity: "50,000+", mapsUrl: "https://www.google.com/maps/search/times+square+new+york" },
+      { name: "Times Square Fan Festival", type: "vibe", description: "Official Fan Festival - massive screens in the heart of NYC", capacity: "50,000+", mapsUrl: "https://www.google.com/maps/search/times+square+new+york" },
       { name: "Hudson Yards Public Square", type: "energy", description: "Modern venue with premium viewing and dining options", capacity: "15,000", mapsUrl: "https://www.google.com/maps/search/hudson+yards+new+york" },
       { name: "Smithfield Hall", type: "local", description: "Authentic soccer bar experience in Manhattan", capacity: "500", mapsUrl: "https://www.google.com/maps/search/smithfield+hall+new+york" }
     ],
@@ -220,7 +220,7 @@ export const cityVaults: CityVault[] = [
       }
     ],
     stadiumAccess: {
-      fifaStadiumName: "New York/New Jersey Stadium",
+      tournamentStadiumName: "New York/New Jersey Stadium",
       regularStadiumName: "MetLife Stadium",
       adaGates: [
         { name: "Gate A", description: "Main ADA entrance - West plaza", mapsUrl: "https://www.google.com/maps/search/MetLife+Stadium+Gate+A+East+Rutherford" },
@@ -231,7 +231,7 @@ export const cityVaults: CityVault[] = [
         { name: "Lot K Rideshare", type: "both", description: "Primary Uber/Lyft pickup and drop-off", mapsUrl: "https://www.google.com/maps/search/MetLife+Stadium+Lot+K+East+Rutherford" },
         { name: "Meadowlands Station", type: "dropoff", description: "Train station drop-off area", mapsUrl: "https://www.google.com/maps/search/Meadowlands+Rail+Station+East+Rutherford" }
       ],
-      gateAssignments: "Gate assignments will be published by FIFA 30 days before tournament"
+      gateAssignments: "Gate assignments will be published 30 days before tournament"
     }
   },
   {
@@ -270,7 +270,7 @@ export const cityVaults: CityVault[] = [
       { name: "Hollywood United Methodist", type: "protestant", description: "Welcoming church near Hollywood", mapsUrl: "https://www.google.com/maps/search/hollywood+united+methodist+church" }
     ],
     watchParties: [
-      { name: "Grand Park", type: "vibe", description: "Official FIFA Fan Festival - massive screens near City Hall", capacity: "45,000+", mapsUrl: "https://www.google.com/maps/search/grand+park+los+angeles" },
+      { name: "Grand Park", type: "vibe", description: "Official Fan Festival - massive screens near City Hall", capacity: "45,000+", mapsUrl: "https://www.google.com/maps/search/grand+park+los+angeles" },
       { name: "LA Live", type: "energy", description: "Entertainment district with bars and restaurants", capacity: "20,000", mapsUrl: "https://www.google.com/maps/search/la+live+los+angeles" },
       { name: "The Greyhound Bar", type: "local", description: "Authentic soccer pub in Highland Park", capacity: "200", mapsUrl: "https://www.google.com/maps/search/greyhound+bar+los+angeles" }
     ],
@@ -292,7 +292,7 @@ export const cityVaults: CityVault[] = [
       }
     ],
     stadiumAccess: {
-      fifaStadiumName: "Los Angeles Stadium FIFA",
+      tournamentStadiumName: "Los Angeles Stadium",
       regularStadiumName: "SoFi Stadium",
       adaGates: [
         { name: "Gate A", description: "Main ADA entrance - American Airlines Plaza", mapsUrl: "https://www.google.com/maps/search/SoFi+Stadium+Gate+A+Inglewood" },
@@ -303,7 +303,7 @@ export const cityVaults: CityVault[] = [
         { name: "Pink Lot", type: "both", description: "Primary Uber/Lyft zone", mapsUrl: "https://www.google.com/maps/search/SoFi+Stadium+Pink+Lot+Inglewood" },
         { name: "Hollywood Park Casino", type: "dropoff", description: "Overflow rideshare area", mapsUrl: "https://www.google.com/maps/search/Hollywood+Park+Casino+Inglewood" }
       ],
-      gateAssignments: "Gate assignments will be published by FIFA 30 days before tournament"
+      gateAssignments: "Gate assignments will be published 30 days before tournament"
     }
   },
   {
@@ -312,9 +312,9 @@ export const cityVaults: CityVault[] = [
     welcomeMessage: "Welcome to Miami! Important: The heat index can reach 105°F during matches. I've mapped all cooling stations and shaded rest areas around Hard Rock Stadium. The stadium is 15 miles north of downtown - would you like shuttle options from your hotel or the walking route to the nearest hydration station?",
     logistics: {
       trap: "Hard Rock Stadium is in Miami Gardens, 15 miles north of downtown Miami Beach. Limited parking and extreme heat.",
-      solution: "Take the Brightline to Aventura, then use official FIFA shuttles. Stay hydrated - heat exhaustion is a real risk.",
+      solution: "Take the Brightline to Aventura, then use official tournament shuttles. Stay hydrated - heat exhaustion is a real risk.",
       localTransit: [
-        "Brightline train to Aventura + FIFA shuttle",
+        "Brightline train to Aventura + tournament shuttle",
         "Miami-Dade Transit express buses on match days",
         "Official park-and-ride from Dolphin Mall"
       ],
@@ -342,7 +342,7 @@ export const cityVaults: CityVault[] = [
       { name: "Trinity Cathedral", type: "protestant", description: "Episcopal cathedral downtown", mapsUrl: "https://www.google.com/maps/search/trinity+cathedral+miami" }
     ],
     watchParties: [
-      { name: "Bayfront Park", type: "vibe", description: "Official FIFA Fan Festival with bay views", capacity: "40,000+", mapsUrl: "https://www.google.com/maps/search/bayfront+park+miami" },
+      { name: "Bayfront Park", type: "vibe", description: "Official Fan Festival with bay views", capacity: "40,000+", mapsUrl: "https://www.google.com/maps/search/bayfront+park+miami" },
       { name: "Brickell City Centre", type: "energy", description: "Upscale outdoor screens with A/C nearby", capacity: "8,000", mapsUrl: "https://www.google.com/maps/search/brickell+city+centre+miami" },
       { name: "Fútbol Miami", type: "local", description: "Authentic soccer bar in Little Havana", capacity: "300", mapsUrl: "https://www.google.com/maps/search/futbol+miami+little+havana" }
     ],
@@ -364,7 +364,7 @@ export const cityVaults: CityVault[] = [
       }
     ],
     stadiumAccess: {
-      fifaStadiumName: "Miami Stadium FIFA",
+      tournamentStadiumName: "Miami Stadium",
       regularStadiumName: "Hard Rock Stadium",
       adaGates: [
         { name: "Gate A", description: "Main ADA entrance - Northwest", mapsUrl: "https://www.google.com/maps/search/Hard+Rock+Stadium+Gate+A+Miami+Gardens" },
@@ -375,7 +375,7 @@ export const cityVaults: CityVault[] = [
         { name: "Lot 18", type: "both", description: "Primary Uber/Lyft pickup and drop-off", mapsUrl: "https://www.google.com/maps/search/Hard+Rock+Stadium+Lot+18+Miami+Gardens" },
         { name: "NW 199th Street", type: "dropoff", description: "Overflow drop-off zone", mapsUrl: "https://www.google.com/maps/search/Hard+Rock+Stadium+NW+199th+Street" }
       ],
-      gateAssignments: "Gate assignments will be published by FIFA 30 days before tournament"
+      gateAssignments: "Gate assignments will be published 30 days before tournament"
     }
   },
   {
@@ -414,7 +414,7 @@ export const cityVaults: CityVault[] = [
       { name: "First Baptist Dallas", type: "protestant", description: "Major downtown congregation", mapsUrl: "https://www.google.com/maps/search/first+baptist+dallas" }
     ],
     watchParties: [
-      { name: "AT&T Discovery District", type: "vibe", description: "Official FIFA Fan Festival in Downtown Dallas", capacity: "40,000+", mapsUrl: "https://www.google.com/maps/search/att+discovery+district+dallas" },
+      { name: "AT&T Discovery District", type: "vibe", description: "Official Fan Festival in Downtown Dallas", capacity: "40,000+", mapsUrl: "https://www.google.com/maps/search/att+discovery+district+dallas" },
       { name: "Deep Ellum", type: "energy", description: "Arts district with bars and live music", capacity: "15,000", mapsUrl: "https://www.google.com/maps/search/deep+ellum+dallas" },
       { name: "The Londoner", type: "local", description: "British pub with proper football atmosphere", capacity: "400", mapsUrl: "https://www.google.com/maps/search/the+londoner+dallas" }
     ],
@@ -436,7 +436,7 @@ export const cityVaults: CityVault[] = [
       }
     ],
     stadiumAccess: {
-      fifaStadiumName: "Dallas Stadium FIFA",
+      tournamentStadiumName: "Dallas Stadium",
       regularStadiumName: "AT&T Stadium",
       adaGates: [
         { name: "Gate A", description: "Main ADA entrance - East plaza", mapsUrl: "https://www.google.com/maps/search/AT%26T+Stadium+Gate+A+Arlington" },
@@ -447,7 +447,7 @@ export const cityVaults: CityVault[] = [
         { name: "Lot 4", type: "both", description: "Primary Uber/Lyft zone - East side", mapsUrl: "https://www.google.com/maps/search/AT%26T+Stadium+Lot+4+Arlington" },
         { name: "Globe Life Field", type: "dropoff", description: "Overflow rideshare with walking bridge", mapsUrl: "https://www.google.com/maps/search/Globe+Life+Field+Arlington" }
       ],
-      gateAssignments: "Gate assignments will be published by FIFA 30 days before tournament"
+      gateAssignments: "Gate assignments will be published 30 days before tournament"
     }
   },
   {
@@ -486,7 +486,7 @@ export const cityVaults: CityVault[] = [
       { name: "Lakewood Church", type: "protestant", description: "America's largest megachurch", mapsUrl: "https://www.google.com/maps/search/lakewood+church+houston" }
     ],
     watchParties: [
-      { name: "Discovery Green", type: "vibe", description: "Official FIFA Fan Festival in downtown park", capacity: "35,000+", mapsUrl: "https://www.google.com/maps/search/discovery+green+houston" },
+      { name: "Discovery Green", type: "vibe", description: "Official Fan Festival in downtown park", capacity: "35,000+", mapsUrl: "https://www.google.com/maps/search/discovery+green+houston" },
       { name: "Midtown Houston", type: "energy", description: "Bar district with outdoor screens", capacity: "10,000", mapsUrl: "https://www.google.com/maps/search/midtown+houston" },
       { name: "Richmond Arms", type: "local", description: "Authentic British pub, legendary soccer atmosphere", capacity: "500", mapsUrl: "https://www.google.com/maps/search/richmond+arms+houston" }
     ],
@@ -508,7 +508,7 @@ export const cityVaults: CityVault[] = [
       }
     ],
     stadiumAccess: {
-      fifaStadiumName: "Houston Stadium",
+      tournamentStadiumName: "Houston Stadium",
       regularStadiumName: "NRG Stadium",
       adaGates: [
         { name: "Gate 1", description: "Main ADA entrance - North side", mapsUrl: "https://www.google.com/maps/search/NRG+Stadium+Gate+1+Houston" },
@@ -519,7 +519,7 @@ export const cityVaults: CityVault[] = [
         { name: "Yellow Lot", type: "both", description: "Primary Uber/Lyft zone", mapsUrl: "https://www.google.com/maps/search/NRG+Stadium+Yellow+Lot+Houston" },
         { name: "METRORail Station", type: "dropoff", description: "Drop-off near rail station", mapsUrl: "https://www.google.com/maps/search/NRG+Park+METRORail+Houston" }
       ],
-      gateAssignments: "Gate assignments will be published by FIFA 30 days before tournament"
+      gateAssignments: "Gate assignments will be published 30 days before tournament"
     }
   },
   {
@@ -558,7 +558,7 @@ export const cityVaults: CityVault[] = [
       { name: "Ebenezer Baptist Church", type: "protestant", description: "Historic church of Dr. Martin Luther King Jr.", mapsUrl: "https://www.google.com/maps/search/ebenezer+baptist+church+atlanta" }
     ],
     watchParties: [
-      { name: "Centennial Olympic Park", type: "vibe", description: "Official FIFA Fan Festival at historic Olympic venue", capacity: "35,000+", mapsUrl: "https://www.google.com/maps/search/centennial+olympic+park+atlanta" },
+      { name: "Centennial Olympic Park", type: "vibe", description: "Official Fan Festival at historic Olympic venue", capacity: "35,000+", mapsUrl: "https://www.google.com/maps/search/centennial+olympic+park+atlanta" },
       { name: "Ponce City Market Roof", type: "energy", description: "Rooftop views with food hall below", capacity: "5,000", mapsUrl: "https://www.google.com/maps/search/ponce+city+market+atlanta" },
       { name: "Fado Irish Pub", type: "local", description: "Authentic soccer pub in Buckhead", capacity: "400", mapsUrl: "https://www.google.com/maps/search/fado+irish+pub+atlanta" }
     ],
@@ -580,7 +580,7 @@ export const cityVaults: CityVault[] = [
       }
     ],
     stadiumAccess: {
-      fifaStadiumName: "Atlanta Stadium FIFA",
+      tournamentStadiumName: "Atlanta Stadium",
       regularStadiumName: "Mercedes-Benz Stadium",
       adaGates: [
         { name: "Gate 1", description: "Main ADA entrance - North plaza", mapsUrl: "https://www.google.com/maps/search/Mercedes-Benz+Stadium+Gate+1+Atlanta" },
@@ -591,7 +591,7 @@ export const cityVaults: CityVault[] = [
         { name: "Lot Red", type: "both", description: "Primary Uber/Lyft zone - West side", mapsUrl: "https://www.google.com/maps/search/Mercedes-Benz+Stadium+Red+Lot+Atlanta" },
         { name: "GWCC Silver Deck", type: "dropoff", description: "Covered drop-off area", mapsUrl: "https://www.google.com/maps/search/Georgia+World+Congress+Center+Atlanta" }
       ],
-      gateAssignments: "Gate assignments will be published by FIFA 30 days before tournament"
+      gateAssignments: "Gate assignments will be published 30 days before tournament"
     }
   },
   {
@@ -630,7 +630,7 @@ export const cityVaults: CityVault[] = [
       { name: "Arch Street United Methodist", type: "protestant", description: "Historic church near Independence Hall", mapsUrl: "https://www.google.com/maps/search/arch+street+methodist+philadelphia" }
     ],
     watchParties: [
-      { name: "Benjamin Franklin Parkway", type: "vibe", description: "Official FIFA Fan Festival on the famous boulevard", capacity: "30,000+", mapsUrl: "https://www.google.com/maps/search/benjamin+franklin+parkway+philadelphia" },
+      { name: "Benjamin Franklin Parkway", type: "vibe", description: "Official Fan Festival on the famous boulevard", capacity: "30,000+", mapsUrl: "https://www.google.com/maps/search/benjamin+franklin+parkway+philadelphia" },
       { name: "Xfinity Live!", type: "energy", description: "Entertainment complex near stadiums", capacity: "10,000", mapsUrl: "https://www.google.com/maps/search/xfinity+live+philadelphia" },
       { name: "Fado Irish Pub", type: "local", description: "Soccer pub in Center City", capacity: "350", mapsUrl: "https://www.google.com/maps/search/fado+irish+pub+philadelphia" }
     ],
@@ -652,7 +652,7 @@ export const cityVaults: CityVault[] = [
       }
     ],
     stadiumAccess: {
-      fifaStadiumName: "Philadelphia Stadium",
+      tournamentStadiumName: "Philadelphia Stadium",
       regularStadiumName: "Lincoln Financial Field",
       adaGates: [
         { name: "Gate A", description: "Main ADA entrance - West side", mapsUrl: "https://www.google.com/maps/search/Lincoln+Financial+Field+Gate+A+Philadelphia" },
@@ -663,7 +663,7 @@ export const cityVaults: CityVault[] = [
         { name: "Lot K", type: "both", description: "Primary Uber/Lyft zone", mapsUrl: "https://www.google.com/maps/search/Lincoln+Financial+Field+Lot+K+Philadelphia" },
         { name: "Xfinity Live!", type: "dropoff", description: "Drop-off near entertainment complex", mapsUrl: "https://www.google.com/maps/search/Xfinity+Live+Philadelphia" }
       ],
-      gateAssignments: "Gate assignments will be published by FIFA 30 days before tournament"
+      gateAssignments: "Gate assignments will be published 30 days before tournament"
     }
   },
   {
@@ -702,7 +702,7 @@ export const cityVaults: CityVault[] = [
       { name: "Plymouth Congregational Church", type: "protestant", description: "Historic church downtown", mapsUrl: "https://www.google.com/maps/search/plymouth+congregational+church+seattle" }
     ],
     watchParties: [
-      { name: "Seattle Center", type: "vibe", description: "Official FIFA Fan Festival at Space Needle plaza", capacity: "25,000+", mapsUrl: "https://www.google.com/maps/search/seattle+center" },
+      { name: "Seattle Center", type: "vibe", description: "Official Fan Festival at Space Needle plaza", capacity: "25,000+", mapsUrl: "https://www.google.com/maps/search/seattle+center" },
       { name: "Pioneer Square", type: "energy", description: "Historic district with bars and nightlife", capacity: "8,000", mapsUrl: "https://www.google.com/maps/search/pioneer+square+seattle" },
       { name: "George & Dragon Pub", type: "local", description: "British pub in Fremont, soccer haven", capacity: "200", mapsUrl: "https://www.google.com/maps/search/george+dragon+pub+seattle" }
     ],
@@ -724,7 +724,7 @@ export const cityVaults: CityVault[] = [
       }
     ],
     stadiumAccess: {
-      fifaStadiumName: "Seattle Stadium FIFA",
+      tournamentStadiumName: "Seattle Stadium",
       regularStadiumName: "Lumen Field",
       adaGates: [
         { name: "Gate A", description: "Main ADA entrance - North end", mapsUrl: "https://www.google.com/maps/search/Lumen+Field+Gate+A+Seattle" },
@@ -735,7 +735,7 @@ export const cityVaults: CityVault[] = [
         { name: "Occidental Park", type: "both", description: "Primary Uber/Lyft zone in Pioneer Square", mapsUrl: "https://www.google.com/maps/search/Occidental+Park+Seattle" },
         { name: "S King Street", type: "dropoff", description: "Drop-off near Light Rail station", mapsUrl: "https://www.google.com/maps/search/Stadium+Station+Seattle" }
       ],
-      gateAssignments: "Gate assignments will be published by FIFA 30 days before tournament"
+      gateAssignments: "Gate assignments will be published 30 days before tournament"
     }
   },
   {
@@ -774,7 +774,7 @@ export const cityVaults: CityVault[] = [
       { name: "Old South Church", type: "protestant", description: "Historic UCC church in Back Bay", mapsUrl: "https://www.google.com/maps/search/old+south+church+boston" }
     ],
     watchParties: [
-      { name: "Boston Common", type: "vibe", description: "Official FIFA Fan Festival in America's oldest park", capacity: "25,000+", mapsUrl: "https://www.google.com/maps/search/boston+common" },
+      { name: "Boston Common", type: "vibe", description: "Official Fan Festival in America's oldest park", capacity: "25,000+", mapsUrl: "https://www.google.com/maps/search/boston+common" },
       { name: "Faneuil Hall Marketplace", type: "energy", description: "Historic marketplace with outdoor screens", capacity: "10,000", mapsUrl: "https://www.google.com/maps/search/faneuil+hall+boston" },
       { name: "The Banshee", type: "local", description: "Irish pub in Dorchester, soccer central", capacity: "250", mapsUrl: "https://www.google.com/maps/search/the+banshee+boston" }
     ],
@@ -796,7 +796,7 @@ export const cityVaults: CityVault[] = [
       }
     ],
     stadiumAccess: {
-      fifaStadiumName: "Boston Stadium FIFA",
+      tournamentStadiumName: "Boston Stadium",
       regularStadiumName: "Gillette Stadium",
       adaGates: [
         { name: "Gate A", description: "Main ADA entrance - East side", mapsUrl: "https://www.google.com/maps/search/Gillette+Stadium+Gate+A+Foxborough" },
@@ -807,7 +807,7 @@ export const cityVaults: CityVault[] = [
         { name: "Patriot Place", type: "both", description: "Primary Uber/Lyft zone at retail complex", mapsUrl: "https://www.google.com/maps/search/Patriot+Place+Foxborough" },
         { name: "Lot 15", type: "dropoff", description: "Overflow drop-off area", mapsUrl: "https://www.google.com/maps/search/Gillette+Stadium+Lot+15+Foxborough" }
       ],
-      gateAssignments: "Gate assignments will be published by FIFA 30 days before tournament"
+      gateAssignments: "Gate assignments will be published 30 days before tournament"
     }
   },
   {
@@ -846,7 +846,7 @@ export const cityVaults: CityVault[] = [
       { name: "Glide Memorial Church", type: "protestant", description: "Progressive church in the Tenderloin", mapsUrl: "https://www.google.com/maps/search/glide+memorial+church+san+francisco" }
     ],
     watchParties: [
-      { name: "Civic Center Plaza", type: "vibe", description: "Official FIFA Fan Festival near City Hall", capacity: "30,000+", mapsUrl: "https://www.google.com/maps/search/civic+center+plaza+san+francisco" },
+      { name: "Civic Center Plaza", type: "vibe", description: "Official Fan Festival near City Hall", capacity: "30,000+", mapsUrl: "https://www.google.com/maps/search/civic+center+plaza+san+francisco" },
       { name: "Oracle Park Plaza", type: "energy", description: "Waterfront viewing near Giants stadium", capacity: "10,000", mapsUrl: "https://www.google.com/maps/search/oracle+park+san+francisco" },
       { name: "Danny Coyle's", type: "local", description: "Irish pub in the Haight, soccer haven", capacity: "150", mapsUrl: "https://www.google.com/maps/search/danny+coyles+san+francisco" }
     ],
@@ -868,7 +868,7 @@ export const cityVaults: CityVault[] = [
       }
     ],
     stadiumAccess: {
-      fifaStadiumName: "San Francisco Bay Area Stadium",
+      tournamentStadiumName: "San Francisco Bay Area Stadium",
       regularStadiumName: "Levi's Stadium",
       adaGates: [
         { name: "Gate A", description: "Main ADA entrance - North side", mapsUrl: "https://www.google.com/maps/search/Levis+Stadium+Gate+A+Santa+Clara" },
@@ -879,7 +879,7 @@ export const cityVaults: CityVault[] = [
         { name: "Tasman Lot", type: "both", description: "Primary Uber/Lyft zone", mapsUrl: "https://www.google.com/maps/search/Levis+Stadium+Tasman+Lot+Santa+Clara" },
         { name: "Great America", type: "dropoff", description: "Overflow rideshare area", mapsUrl: "https://www.google.com/maps/search/Great+America+Santa+Clara" }
       ],
-      gateAssignments: "Gate assignments will be published by FIFA 30 days before tournament"
+      gateAssignments: "Gate assignments will be published 30 days before tournament"
     }
   },
   {
@@ -918,7 +918,7 @@ export const cityVaults: CityVault[] = [
       { name: "Metropolitan United Church", type: "protestant", description: "Historic church near Eaton Centre", mapsUrl: "https://www.google.com/maps/search/metropolitan+united+church+toronto" }
     ],
     watchParties: [
-      { name: "Nathan Phillips Square", type: "vibe", description: "Official FIFA Fan Festival at City Hall", capacity: "40,000+", mapsUrl: "https://www.google.com/maps/search/nathan+phillips+square+toronto" },
+      { name: "Nathan Phillips Square", type: "vibe", description: "Official Fan Festival at City Hall", capacity: "40,000+", mapsUrl: "https://www.google.com/maps/search/nathan+phillips+square+toronto" },
       { name: "Maple Leaf Square", type: "energy", description: "Major viewing area near Scotiabank Arena", capacity: "10,000", mapsUrl: "https://www.google.com/maps/search/maple+leaf+square+toronto" },
       { name: "The Football Factory", type: "local", description: "Soccer-dedicated pub on King West", capacity: "300", mapsUrl: "https://www.google.com/maps/search/football+factory+toronto" }
     ],
@@ -940,7 +940,7 @@ export const cityVaults: CityVault[] = [
       }
     ],
     stadiumAccess: {
-      fifaStadiumName: "Toronto Stadium",
+      tournamentStadiumName: "Toronto Stadium",
       regularStadiumName: "BMO Field",
       adaGates: [
         { name: "Gate 1", description: "Main ADA entrance - East side", mapsUrl: "https://www.google.com/maps/search/BMO+Field+Gate+1+Toronto" },
@@ -951,7 +951,7 @@ export const cityVaults: CityVault[] = [
         { name: "Exhibition GO", type: "both", description: "Primary Uber/Lyft zone near transit", mapsUrl: "https://www.google.com/maps/search/Exhibition+GO+Station+Toronto" },
         { name: "Liberty Village", type: "dropoff", description: "Nearby neighborhood drop-off", mapsUrl: "https://www.google.com/maps/search/Liberty+Village+Toronto" }
       ],
-      gateAssignments: "Gate assignments will be published by FIFA 30 days before tournament"
+      gateAssignments: "Gate assignments will be published 30 days before tournament"
     }
   },
   {
@@ -990,7 +990,7 @@ export const cityVaults: CityVault[] = [
       { name: "Christ Church Cathedral", type: "protestant", description: "Anglican cathedral downtown", mapsUrl: "https://www.google.com/maps/search/christ+church+cathedral+vancouver" }
     ],
     watchParties: [
-      { name: "Jack Poole Plaza", type: "vibe", description: "Official FIFA Fan Festival at Olympic Cauldron", capacity: "30,000+", mapsUrl: "https://www.google.com/maps/search/jack+poole+plaza+vancouver" },
+      { name: "Jack Poole Plaza", type: "vibe", description: "Official Fan Festival at Olympic Cauldron", capacity: "30,000+", mapsUrl: "https://www.google.com/maps/search/jack+poole+plaza+vancouver" },
       { name: "Yaletown", type: "energy", description: "Trendy neighborhood with patios and screens", capacity: "8,000", mapsUrl: "https://www.google.com/maps/search/yaletown+vancouver" },
       { name: "The Three Lions", type: "local", description: "British pub on Main Street, soccer dedicated", capacity: "200", mapsUrl: "https://www.google.com/maps/search/three+lions+vancouver" }
     ],
@@ -1012,7 +1012,7 @@ export const cityVaults: CityVault[] = [
       }
     ],
     stadiumAccess: {
-      fifaStadiumName: "Vancouver Stadium",
+      tournamentStadiumName: "Vancouver Stadium",
       regularStadiumName: "BC Place",
       adaGates: [
         { name: "Gate A", description: "Main ADA entrance - North side", mapsUrl: "https://www.google.com/maps/search/BC+Place+Gate+A+Vancouver" },
@@ -1023,7 +1023,7 @@ export const cityVaults: CityVault[] = [
         { name: "Rogers Arena", type: "both", description: "Primary Uber/Lyft zone nearby", mapsUrl: "https://www.google.com/maps/search/Rogers+Arena+Vancouver" },
         { name: "Stadium-Chinatown Station", type: "dropoff", description: "Drop-off near SkyTrain", mapsUrl: "https://www.google.com/maps/search/Stadium+Chinatown+Station+Vancouver" }
       ],
-      gateAssignments: "Gate assignments will be published by FIFA 30 days before tournament"
+      gateAssignments: "Gate assignments will be published 30 days before tournament"
     }
   },
   {
@@ -1062,7 +1062,7 @@ export const cityVaults: CityVault[] = [
       { name: "Union Church", type: "protestant", description: "English-speaking interdenominational church", mapsUrl: "https://www.google.com/maps/search/union+church+mexico+city" }
     ],
     watchParties: [
-      { name: "Zócalo", type: "vibe", description: "Official FIFA Fan Festival in the historic main square", capacity: "60,000+", mapsUrl: "https://www.google.com/maps/search/zocalo+mexico+city" },
+      { name: "Zócalo", type: "vibe", description: "Official Fan Festival in the historic main square", capacity: "60,000+", mapsUrl: "https://www.google.com/maps/search/zocalo+mexico+city" },
       { name: "Paseo de la Reforma", type: "energy", description: "Iconic boulevard with outdoor screens and bars", capacity: "20,000", mapsUrl: "https://www.google.com/maps/search/paseo+reforma+mexico+city" },
       { name: "La Condesa", type: "local", description: "Trendy neighborhood with cafes and bars", capacity: "5,000", mapsUrl: "https://www.google.com/maps/search/la+condesa+mexico+city" }
     ],
@@ -1084,7 +1084,7 @@ export const cityVaults: CityVault[] = [
       }
     ],
     stadiumAccess: {
-      fifaStadiumName: "Estadio Ciudad de México",
+      tournamentStadiumName: "Estadio Ciudad de México",
       regularStadiumName: "Estadio Azteca",
       adaGates: [
         { name: "Puerta 1", description: "Entrada principal ADA - Norte", mapsUrl: "https://www.google.com/maps/search/Estadio+Azteca+Puerta+1+Mexico+City" },
@@ -1095,7 +1095,7 @@ export const cityVaults: CityVault[] = [
         { name: "Estacionamiento Norte", type: "both", description: "Zona principal Uber/DiDi", mapsUrl: "https://www.google.com/maps/search/Estadio+Azteca+Estacionamiento+Norte" },
         { name: "Tren Ligero Station", type: "dropoff", description: "Bajada cerca del tren ligero", mapsUrl: "https://www.google.com/maps/search/Estadio+Azteca+Tren+Ligero" }
       ],
-      gateAssignments: "Gate assignments will be published by FIFA 30 days before tournament"
+      gateAssignments: "Gate assignments will be published 30 days before tournament"
     }
   },
   {
@@ -1134,7 +1134,7 @@ export const cityVaults: CityVault[] = [
       { name: "First Baptist Church Guadalajara", type: "protestant", description: "English-friendly services", mapsUrl: "https://www.google.com/maps/search/first+baptist+guadalajara" }
     ],
     watchParties: [
-      { name: "Plaza de la Liberación", type: "vibe", description: "Official FIFA Fan Festival behind the cathedral", capacity: "35,000+", mapsUrl: "https://www.google.com/maps/search/plaza+liberacion+guadalajara" },
+      { name: "Plaza de la Liberación", type: "vibe", description: "Official Fan Festival behind the cathedral", capacity: "35,000+", mapsUrl: "https://www.google.com/maps/search/plaza+liberacion+guadalajara" },
       { name: "Chapultepec Avenue", type: "energy", description: "Bar and restaurant strip with big screens", capacity: "10,000", mapsUrl: "https://www.google.com/maps/search/chapultepec+avenue+guadalajara" },
       { name: "Tlaquepaque", type: "local", description: "Artisan village with authentic atmosphere", capacity: "3,000", mapsUrl: "https://www.google.com/maps/search/tlaquepaque+guadalajara" }
     ],
@@ -1156,7 +1156,7 @@ export const cityVaults: CityVault[] = [
       }
     ],
     stadiumAccess: {
-      fifaStadiumName: "Guadalajara Stadium",
+      tournamentStadiumName: "Guadalajara Stadium",
       regularStadiumName: "Estadio Akron",
       adaGates: [
         { name: "Puerta Principal", description: "Entrada principal ADA - Norte", mapsUrl: "https://www.google.com/maps/search/Estadio+Akron+Puerta+Principal+Guadalajara" },
@@ -1167,7 +1167,7 @@ export const cityVaults: CityVault[] = [
         { name: "Estacionamiento Principal", type: "both", description: "Zona principal Uber/DiDi", mapsUrl: "https://www.google.com/maps/search/Estadio+Akron+Estacionamiento+Guadalajara" },
         { name: "Centro Comercial Andares", type: "dropoff", description: "Zona alternativa cerca del estadio", mapsUrl: "https://www.google.com/maps/search/Centro+Comercial+Andares+Guadalajara" }
       ],
-      gateAssignments: "Gate assignments will be published by FIFA 30 days before tournament"
+      gateAssignments: "Gate assignments will be published 30 days before tournament"
     }
   },
   {
@@ -1206,7 +1206,7 @@ export const cityVaults: CityVault[] = [
       { name: "Iglesia Bautista Central", type: "protestant", description: "Baptist church downtown", mapsUrl: "https://www.google.com/maps/search/iglesia+bautista+monterrey" }
     ],
     watchParties: [
-      { name: "Macroplaza", type: "vibe", description: "Official FIFA Fan Festival in one of the world's largest plazas", capacity: "30,000+", mapsUrl: "https://www.google.com/maps/search/macroplaza+monterrey" },
+      { name: "Macroplaza", type: "vibe", description: "Official Fan Festival in one of the world's largest plazas", capacity: "30,000+", mapsUrl: "https://www.google.com/maps/search/macroplaza+monterrey" },
       { name: "Barrio Antiguo", type: "energy", description: "Historic nightlife district with bars", capacity: "8,000", mapsUrl: "https://www.google.com/maps/search/barrio+antiguo+monterrey" },
       { name: "Parque Fundidora", type: "local", description: "Converted steel mill now urban park", capacity: "15,000", mapsUrl: "https://www.google.com/maps/search/parque+fundidora+monterrey" }
     ],
@@ -1228,7 +1228,7 @@ export const cityVaults: CityVault[] = [
       }
     ],
     stadiumAccess: {
-      fifaStadiumName: "Monterrey Stadium",
+      tournamentStadiumName: "Monterrey Stadium",
       regularStadiumName: "Estadio BBVA",
       adaGates: [
         { name: "Puerta 1", description: "Entrada principal ADA - Oeste", mapsUrl: "https://www.google.com/maps/search/Estadio+BBVA+Puerta+1+Monterrey" },
@@ -1239,7 +1239,7 @@ export const cityVaults: CityVault[] = [
         { name: "Estacionamiento VIP", type: "both", description: "Zona principal Uber/DiDi", mapsUrl: "https://www.google.com/maps/search/Estadio+BBVA+Estacionamiento+Monterrey" },
         { name: "Metrorrey General Anaya", type: "dropoff", description: "Bajada cerca del metro", mapsUrl: "https://www.google.com/maps/search/Metrorrey+General+Anaya+Monterrey" }
       ],
-      gateAssignments: "Gate assignments will be published by FIFA 30 days before tournament"
+      gateAssignments: "Gate assignments will be published 30 days before tournament"
     }
   }
 ];

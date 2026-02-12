@@ -52,7 +52,7 @@ export function Legal() {
           <div className="bg-slate-800/50 p-4 rounded-lg space-y-3">
             <p className="text-white font-medium">SERVICE INCLUDES:</p>
             <ul className="list-disc list-inside space-y-2">
-              <li><span className="text-primary font-medium">Fan Tier ($4.99):</span> Team information, match schedules, FIFA history, global watch parties directory, and star player profiles</li>
+              <li><span className="text-primary font-medium">Fan Tier ($4.99):</span> Team information, match schedules, tournament history, global watch parties directory, and star player profiles</li>
               <li><span className="text-primary font-medium">Traveler Tier ($14.99):</span> Everything in Fan Tier plus 16-city travel guides, lodging directories, dining options, luxury travel information (private jets, yachts), road closure updates, emergency services, religious services, local transit, and 9 language support</li>
               <li><span className="text-primary font-medium">Premium Tier ($24.99):</span> Everything in Traveler Tier plus AI Travel Concierge with voice and text input, 50 messages per month (renewed monthly), with additional messages available for purchase</li>
             </ul>
@@ -146,8 +146,8 @@ export function Legal() {
             You may not reproduce, distribute, or create derivative works without permission.
           </p>
           <p>
-            FIFA, FIFA World Cup, and related trademarks are the property of FIFA. This application is an 
-            independent fan-made companion and is NOT affiliated with, endorsed by, or connected to FIFA 
+            This application is an 
+            independent fan-made companion and is NOT affiliated with, endorsed by, or connected to any official 
             or any official organizing bodies.
           </p>
         </div>
@@ -408,7 +408,7 @@ export function Legal() {
         <div className="bg-amber-500/10 border border-amber-500/30 p-4 rounded-lg">
           <p className="text-amber-200">
             <span className="font-bold">DISCLAIMER:</span> This application is an independent fan-made companion app 
-            and is NOT affiliated with, endorsed by, or connected to FIFA, the FIFA World Cup, or any official 
+            and is NOT affiliated with, endorsed by, or connected to any official 
             organizing bodies.
           </p>
         </div>

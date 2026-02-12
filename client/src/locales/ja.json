@@ -1,6 +1,6 @@
 {
   "header": {
-    "worldCup": "チャンピオンシップ",
+    "championship": "チャンピオンシップ",
     "companion": "コンシェルジュ",
     "year": "2026"
   },
@@ -82,7 +82,7 @@
     "Bolivia": "ラ・ベルデはホームの高地アドバンテージを効果的に活用。チームは南米予選で粘り強さを見せた。",
     "DR Congo": "レオパルズは1974年以来初のW杯出場を決めた。コンゴサッカーにとって歴史的な偉業。",
     "Iraq": "メソポタミアのライオンズは有望なフォームを見せた。若手と経験者の融合が予選キャンペーンを推進した。",
-    "Jordan": "ナシャーマは初のFIFAワールドカップ出場で歴史を刻んだ。ジャマル・セラミ監督の下、ヨルダンは2025 FIFAアラブカップ決勝に進出し、アジア予選を圧倒的なパフォーマンスで制覇した。"
+    "Jordan": "ナシャーマは初のtournamentワールドカップ出場で歴史を刻んだ。ジャマル・セラミ監督の下、ヨルダンは2025 tournamentアラブカップ決勝に進出し、アジア予選を圧倒的なパフォーマンスで制覇した。"
   },
   "common": {
     "back": "Back",
@@ -102,7 +102,7 @@
     "tip": "ヒント",
     "previous": "前へ",
     "next": "次へ",
-    "dataDisclaimer": "FIFA.com、ESPN、BBC Sport、Sky Sportsなどの第三者情報源から提供されたデータ。"
+    "dataDisclaimer": "tournament.com、ESPN、BBC Sport、Sky Sportsなどの第三者情報源から提供されたデータ。"
   },
   "bracket": {
     "title": "ノックアウトステージ",
@@ -123,7 +123,7 @@
     "finalMatch": "決勝戦",
     "finalInfo": "決勝戦はニューヨーク/ニュージャージーのメットライフスタジアムで開催されます",
     "aboutTitle": "ノックアウトステージについて",
-    "aboutDescription": "FIFA ワールドカップ 2026 のノックアウトステージはグループステージ後に始まり、32チームがアメリカ、カナダ、メキシコの16都市で行われる一発勝負の試合で競います。"
+    "aboutDescription": "tournament ワールドカップ 2026 のノックアウトステージはグループステージ後に始まり、32チームがアメリカ、カナダ、メキシコの16都市で行われる一発勝負の試合で競います。"
   },
   "nav": {
     "home": "ホーム",
@@ -147,10 +147,10 @@
     "stadiumSeating": "スタジアム座席"
   },
   "home": {
-    "title": "FIFA",
+    "title": "tournament",
     "year": "2026",
     "tagline": "The World is Coming to North America",
-    "updateInfo": "This app is updated routinely with the latest information through the end of the 2026 World Cup and into August 2026.",
+    "updateInfo": "This app is updated routinely with the latest information through the end of the 2026 championship and into August 2026.",
     "potDrawAlt": "ワールドカップ2026 抽選ポット",
     "viewSchedule": "View Match Schedule",
     "latestNews": "最新ニュース",
@@ -172,7 +172,7 @@
   },
   "legal": {
     "title": "法的情報",
-    "disclaimer": "免責事項：このアプリケーションはファンによって作成された独立したコンパニオンアプリであり、FIFA、FIFAワールドカップ、または公式の組織機関とは提携、承認、または関連していません。",
+    "disclaimer": "免責事項：このアプリケーションはファンによって作成された独立したコンパニオンアプリであり、tournament、tournamentワールドカップ、または公式の組織機関とは提携、承認、または関連していません。",
     "noAffiliation": "すべての商標、ロゴ、ブランド名はそれぞれの所有者の財産です。これらのマークの使用は情報提供のみを目的としており、承認を意味するものではありません。",
     "informationalPurposes": "このアプリで提供される情報は、一般的な情報提供のみを目的としています。情報を最新かつ正確に保つよう努めていますが、情報の完全性、正確性、信頼性、または可用性について、いかなる種類の表明または保証も行いません。",
     "thirdPartyLinks": "このアプリには、サードパーティのウェブサイトやサービスへのリンクが含まれている場合があります。これらの外部サイトのコンテンツ、正確性、または慣行について責任を負いません。",
@@ -182,7 +182,7 @@
     "intellectualProperty": "サードパーティの素材を除く、このアプリ用に作成されたすべてのコンテンツは著作権で保護されています。許可なく複製、配布、または派生作品を作成することはできません。",
     "liabilityLimitation": "いかなる状況においても、アプリ開発者は、このアプリケーションの使用から生じる直接的、間接的、偶発的、結果的、または特別な損害について責任を負いません。",
     "privacyStatement": "私たちはあなたのプライバシーを尊重します。収集された個人データは、お客様の体験を向上させるためにのみ使用され、お客様の同意なしに第三者と共有されることはありません。",
-    "copyright": "© 2026 World Cup Companion. 全著作権所有。これは非公式のファンアプリケーションです。"
+    "copyright": "© 2026 championship Companion. 全著作権所有。これは非公式のファンアプリケーションです。"
   },
   "teams": {
     "title": "出場国一覧",
@@ -300,18 +300,18 @@
       "toronto": "BMOフィールド",
       "vancouver": "BCプレイス"
     },
-    "fifaStadiums": {
+    "tournamentStadiums": {
       "newYork": "ニューヨーク/ニュージャージー・スタジアム",
-      "losAngeles": "ロサンゼルス・スタジアムFIFA",
-      "dallas": "ダラス・スタジアムFIFA",
-      "miami": "マイアミ・スタジアムFIFA",
-      "atlanta": "アトランタ・スタジアムFIFA",
-      "seattle": "シアトル・スタジアムFIFA",
+      "losAngeles": "ロサンゼルス・スタジアムtournament",
+      "dallas": "ダラス・スタジアムtournament",
+      "miami": "マイアミ・スタジアムtournament",
+      "atlanta": "アトランタ・スタジアムtournament",
+      "seattle": "シアトル・スタジアムtournament",
       "sanFrancisco": "サンフランシスコ・ベイエリア・スタジアム",
       "houston": "ヒューストン・スタジアム",
       "philadelphia": "フィラデルフィア・スタジアム",
-      "kansasCity": "カンザスシティ・スタジアムFIFA",
-      "boston": "ボストン・スタジアムFIFA",
+      "kansasCity": "カンザスシティ・スタジアムtournament",
+      "boston": "ボストン・スタジアムtournament",
       "toronto": "トロント・スタジアム",
       "vancouver": "バンクーバー・スタジアム",
       "guadalajara": "グアダラハラ・スタジアム",
@@ -731,8 +731,8 @@
     "tapForDetails": "タップして詳細を見る",
     "title_one": "回",
     "title_other": "回",
-    "worldCupTitle_one": "回優勝",
-    "worldCupTitle_other": "回優勝",
+    "championshipTitle_one": "回優勝",
+    "championshipTitle_other": "回優勝",
     "hostedBy": "開催国",
     "matchResults": "試合結果",
     "tournamentHighlight": "大会ハイライト",
@@ -974,7 +974,7 @@
       },
       "stayInformed": {
         "title": "最新情報を入手",
-        "tip": "現地の交通アプリをダウンロードし、FIFA公式の交通情報をフォローしましょう"
+        "tip": "現地の交通アプリをダウンロードし、tournament公式の交通情報をフォローしましょう"
       }
     },
     "stations": {
@@ -1417,7 +1417,7 @@
     "homeCityPlaceholder": "どちらからお越しですか？",
     "nationality": "国籍",
     "nationalityPlaceholder": "市民権を持つ国",
-    "worldCupPrefs": "ワールドカップの設定",
+    "championshipPrefs": "ワールドカップの設定",
     "favoriteTeam": "お気に入りのチーム",
     "selectTeam": "チームを選択",
     "arrivalDate": "到着日",
@@ -2508,7 +2508,7 @@
       "ticketScams": {
         "title": "チケット・グッズ詐欺",
         "description": "スタジアム外で販売される偽チケットや偽造ジャージ。",
-        "tips": "公式アプリ（Ticketmaster, FIFA）からのみ購入してください。路上の個人から絶対に購入しないでください。"
+        "tips": "公式アプリ（Ticketmaster, tournament）からのみ購入してください。路上の個人から絶対に購入しないでください。"
       },
       "carBreakIns": {
         "title": "車上荒らしと駐車場の安全",
@@ -2666,8 +2666,8 @@
           "title": "B-1/B-2ビザ",
           "description": "ブラジル、アルゼンチン、メキシコ、コロンビアなどに必要"
         },
-        "fifa-pass": {
-          "title": "FIFA Pass",
+        "tournament-pass": {
+          "title": "tournament Pass",
           "description": "公式チケット保有者向けの迅速なビザ面接"
         }
       },
@@ -2736,7 +2736,7 @@
       "cities": {
         "miami": {
           "heatWarning": "6月/7月の体感温度は120°F（49°C）に達することがあります。高湿度のため体温調節が困難です。熱中症は深刻なリスクです。",
-          "ticketScams": "ハードロック・スタジアム周辺で偽造チケットの販売に注意。FIFA.comまたはTicketmasterからのみ購入してください。路上では偽造ユニフォームが多く出回っています。",
+          "ticketScams": "ハードロック・スタジアム周辺で偽造チケットの販売に注意。tournament.comまたはTicketmasterからのみ購入してください。路上では偽造ユニフォームが多く出回っています。",
           "localConcerns": [
             "ハリケーンシーズンは6月〜11月 - 気象警報を確認してください",
             "強い日差し - SPF50+を塗り、頻繁に塗り直してください",
@@ -2869,7 +2869,7 @@
         },
         "san-francisco": {
           "heatWarning": "SF自体は涼しい（60-70°F）ですが、サンタクララのリーバイス・スタジアムは95°F以上になることがあります。重ね着で対応してください。",
-          "ticketScams": "テックに詳しい詐欺師が精巧な偽チケットサイトを作成しています。FIFA.comまたはTicketmasterのみを利用してください。",
+          "ticketScams": "テックに詳しい詐欺師が精巧な偽チケットサイトを作成しています。tournament.comまたはTicketmasterのみを利用してください。",
           "localConcerns": [
             "スタジアムはSFから45マイル離れています - 交通手段を計画してください",
             "車上荒らしが蔓延 - 車内に何も残さないでください",
@@ -2945,7 +2945,7 @@
         },
         "mexico-city": {
           "heatWarning": "高地（標高7,350フィート）のため予想より涼しい気温（70-80°F）。しかし高山病が懸念されます - 運動前に順応してください。",
-          "ticketScams": "アステカ・スタジアム周辺には精巧な詐欺組織があります。偽造チケットは非常に本物そっくりです。FIFA.comからのみ購入してください。",
+          "ticketScams": "アステカ・スタジアム周辺には精巧な詐欺組織があります。偽造チケットは非常に本物そっくりです。tournament.comからのみ購入してください。",
           "localConcerns": [
             "高山病 - 最初の2日間はゆっくり過ごしてください",
             "メトロでのスリ（特にB線）",
@@ -2965,7 +2965,7 @@
         },
         "guadalajara": {
           "heatWarning": "暖かいですが極端ではありません（80-90°F）。雨季は6月〜10月で、毎日午後に雷雨があります。",
-          "ticketScams": "エスタディオ・アクロン周辺では偽チケット販売があります。FIFA公式チャネルのみを利用してください。",
+          "ticketScams": "エスタディオ・アクロン周辺では偽チケット販売があります。tournament公式チャネルのみを利用してください。",
           "localConcerns": [
             "ハリスコ州にはカルテルの存在があります - 観光エリアに留まってください",
             "コロニア・アメリカーナとセントロでオートバイによる携帯電話ひったくり",
@@ -3186,7 +3186,7 @@
           "title": "騒音器具",
           "airhorns": {
             "name": "エアホーン・ブブゼラ",
-            "description": "エアホーン、ブブゼラ、圧縮空気を使った騒音器具は禁止です。これらはすべてのFIFAイベントで厳しく禁止されています。",
+            "description": "エアホーン、ブブゼラ、圧縮空気を使った騒音器具は禁止です。これらはすべてのtournamentイベントで厳しく禁止されています。",
             "penalty": "没収"
           },
           "drums": {
@@ -3232,7 +3232,7 @@
           },
           "political": {
             "name": "政治的・攻撃的な素材",
-            "description": "政治的なバナー、差別的なシンボル、攻撃的な素材は禁止です。FIFAは厳格な差別禁止ポリシーを持っています。",
+            "description": "政治的なバナー、差別的なシンボル、攻撃的な素材は禁止です。tournamentは厳格な差別禁止ポリシーを持っています。",
             "penalty": "入場拒否、追放の可能性あり"
           }
         }
@@ -3466,7 +3466,7 @@
     "title": "AIコンシェルジュ",
     "subtitle": "ワールドカップ旅行のエキスパート",
     "welcome": "ようこそ！",
-    "welcomeMessage": "FIFA 2026のAIコンシェルジュです。旅行、レストラン、宿泊施設、大会についてお気軽にご質問ください！",
+    "welcomeMessage": "tournament 2026のAIコンシェルジュです。旅行、レストラン、宿泊施設、大会についてお気軽にご質問ください！",
     "selectCategory": "何をお手伝いしましょうか？",
     "orTypeQuestion": "または下に質問を入力してください",
     "changeCategory": "変更",
@@ -3500,7 +3500,7 @@
         "title": "アクティビティ",
         "prompts": {
           "mustSee": "試合の合間にロサンゼルスで必見のアトラクションは？",
-          "fanZones": "公式FIFAファンゾーンはどこにある？",
+          "fanZones": "公式tournamentファンゾーンはどこにある？",
           "nightlife": "マイアミでサッカーファンにおすすめのナイトライフエリアは？",
           "familyFriendly": "ワールドカップ期間中、シアトルで家族向けのアクティビティは？"
         }
@@ -3620,9 +3620,9 @@
     "selectPrompt": "スタジアムを選んでください",
     "selectDescription": "上のスタジアムを選択すると、座席セクションと価格を表示できます",
     "capacity": "収容人数",
-    "pricingNote": "FIFA価格の仕組み",
-    "pricingDisclaimer": "FIFAはダイナミックプライシングを採用 - グループステージは約$60-$250 USDから、決勝は$1,825-$6,730 USDの範囲です。カテゴリー4席は米国、カナダ、メキシコ居住者限定です。",
-    "sectionLegend": "FIFAチケットカテゴリー",
+    "pricingNote": "tournament価格の仕組み",
+    "pricingDisclaimer": "tournamentはダイナミックプライシングを採用 - グループステージは約$60-$250 USDから、決勝は$1,825-$6,730 USDの範囲です。カテゴリー4席は米国、カナダ、メキシコ居住者限定です。",
+    "sectionLegend": "tournamentチケットカテゴリー",
     "viewOfficialMaps": "公式マップを見る",
     "sectionTypes": {
       "category1": "カテゴリー1",
@@ -3651,8 +3651,8 @@
     "allSections": "全セクション",
     "upTo": "まで",
     "buyTickets": "チケットを入手",
-    "ticketDisclaimer": "公式チケットはFIFAおよび公認販売店からのみ購入可能です。",
-    "visitFifa": "FIFAチケットを見る",
+    "ticketDisclaimer": "公式チケットはtournamentおよび公認販売店からのみ購入可能です。",
+    "visitTickets": "tournamentチケットを見る",
     "sectionDetails": "セクション詳細",
     "basePrice": "基本価格",
     "premiumPrice": "プレミアム価格",
@@ -3660,7 +3660,7 @@
     "viewQuality": "視界の質",
     "seatCapacity": "座席数",
     "amenities": "設備",
-    "checkAvailability": "FIFAで空席確認"
+    "checkAvailability": "tournamentで空席確認"
   },
   "odds": {
     "title": "大会オッズ",
@@ -3722,7 +3722,7 @@
     "pickWinner": "勝者を選ぶ",
     "selectTeam": "チームを選択",
     "winnerOf": "の勝者",
-    "worldCupFinal": "ワールドカップ決勝",
+    "championshipFinal": "ワールドカップ決勝",
     "selectWinnersToAdvance": "勝者を選んで次のラウンドに進出させてください",
     "howItWorks": "使い方",
     "step1Title": "ステップ1: ラウンド32（手動）",
@@ -3812,7 +3812,7 @@
     "knockoutBrackets": "決勝トーナメント表",
     "fullSchedules": "完全な試合日程",
     "tournamentNews": "大会ニュース",
-    "worldCupHistory": "ワールドカップの歴史",
+    "championshipHistory": "ワールドカップの歴史",
     "tournamentOdds": "大会オッズ",
     "getTeamInfo": "チーム情報を取得",
     "logistics": "ロジスティクス",

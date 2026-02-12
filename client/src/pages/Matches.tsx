@@ -19,19 +19,19 @@ interface Match {
 export default function Matches() {
   const { t } = useTranslation();
   
-  const fifaStadiumNames: Record<string, string> = {
+  const tournamentStadiumNames: Record<string, string> = {
     "MetLife Stadium": "New York/New Jersey Stadium",
-    "SoFi Stadium": "Los Angeles Stadium FIFA",
-    "AT&T Stadium": "Dallas Stadium FIFA",
-    "Hard Rock Stadium": "Miami Stadium FIFA",
-    "Mercedes-Benz Stadium": "Atlanta Stadium FIFA",
-    "Lumen Field": "Seattle Stadium FIFA",
+    "SoFi Stadium": "Los Angeles Stadium",
+    "AT&T Stadium": "Dallas Stadium",
+    "Hard Rock Stadium": "Miami Stadium",
+    "Mercedes-Benz Stadium": "Atlanta Stadium",
+    "Lumen Field": "Seattle Stadium",
     "Levi's Stadium": "San Francisco Bay Area Stadium",
     "NRG Stadium": "Houston Stadium",
     "Lincoln Financial Field": "Philadelphia Stadium",
-    "Arrowhead Stadium": "Kansas City Stadium FIFA",
-    "GEHA Field at Arrowhead Stadium": "Kansas City Stadium FIFA",
-    "Gillette Stadium": "Boston Stadium FIFA",
+    "Arrowhead Stadium": "Kansas City Stadium",
+    "GEHA Field at Arrowhead Stadium": "Kansas City Stadium",
+    "Gillette Stadium": "Boston Stadium",
     "BMO Field": "Toronto Stadium",
     "BC Place": "Vancouver Stadium",
     "Estadio Akron": "Estadio Guadalajara",
@@ -119,7 +119,7 @@ export default function Matches() {
                           </div>
                         </div>
                         <div className="text-[9px] text-accent/80 mt-1">
-                          {fifaStadiumNames[match.stadium] || match.stadium}
+                          {tournamentStadiumNames[match.stadium] || match.stadium}
                         </div>
                       </div>
                       

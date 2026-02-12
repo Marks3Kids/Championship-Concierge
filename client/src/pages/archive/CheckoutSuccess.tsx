@@ -57,10 +57,10 @@ export default function CheckoutSuccess() {
             <CheckCircle className="w-10 h-10 text-primary" />
           </div>
           <h1 className="text-2xl font-display font-bold text-white mb-2">
-            Welcome to FIFA 2026!
+            Welcome to the 2026 Championship!
           </h1>
           <p className="text-muted-foreground">
-            Your purchase is complete. Get ready for the greatest World Cup experience!
+            Your purchase is complete. Get ready for the greatest championship experience!
           </p>
         </div>
 

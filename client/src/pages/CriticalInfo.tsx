@@ -58,7 +58,7 @@ const safetyData: SafetyCard[] = [
     id: "ticket-scams",
     title: "Ticket and Merchandise Scams",
     description: "Fake tickets and counterfeit jerseys sold outside stadiums.",
-    preventionTips: "Only buy from official apps (Ticketmaster, FIFA). Never buy from individuals on the street."
+    preventionTips: "Only buy from official apps (Ticketmaster). Never buy from individuals on the street."
   },
   {
     id: "car-break-ins",
@@ -486,7 +486,7 @@ const citySafetyData = [
     city: "Miami",
     country: "USA",
     heatWarning: "EXTREME: Heat index can reach 120°F (49°C) in June/July. High humidity makes cooling difficult. Heat exhaustion is a serious risk.",
-    ticketScams: "Beware of fake tickets sold near Hard Rock Stadium. Only buy from FIFA.com or Ticketmaster. Counterfeit jerseys common on streets.",
+    ticketScams: "Beware of fake tickets sold near Hard Rock Stadium. Only buy from official ticket sources or Ticketmaster. Counterfeit jerseys common on streets.",
     localConcerns: [
       "Hurricane season runs June-November - monitor weather alerts",
       "Strong sun exposure - wear SPF 50+ and reapply frequently",
@@ -640,7 +640,7 @@ const citySafetyData = [
     city: "San Francisco Bay Area",
     country: "USA",
     heatWarning: "LOW at coast, HIGH inland: SF itself is cool (60-70°F) but Levi's Stadium in Santa Clara can reach 95°F+. Dress in layers.",
-    ticketScams: "Tech-savvy scammers create sophisticated fake ticket sites. Only use FIFA.com or Ticketmaster.",
+    ticketScams: "Tech-savvy scammers create sophisticated fake ticket sites. Only use official ticket sources or Ticketmaster.",
     localConcerns: [
       "Stadium 45 miles from SF - plan transportation",
       "Smash-and-grab car break-ins epidemic - never leave anything in cars",
@@ -728,7 +728,7 @@ const citySafetyData = [
     city: "Mexico City",
     country: "Mexico",
     heatWarning: "MODERATE: High altitude (7,350 ft) means cooler temps than expected (70-80°F). But altitude sickness is a concern - acclimatize before exertion.",
-    ticketScams: "Azteca Stadium area has sophisticated scam operations. Counterfeit tickets look very real. Only buy from FIFA.com.",
+    ticketScams: "Azteca Stadium area has sophisticated scam operations. Counterfeit tickets look very real. Only buy from official sources.",
     localConcerns: [
       "Altitude sickness - take it easy first 2 days",
       "Pickpocketing on Metro (especially Line B)",
@@ -751,7 +751,7 @@ const citySafetyData = [
     city: "Guadalajara",
     country: "Mexico",
     heatWarning: "MODERATE: Warm but not extreme (80-90°F). Rainy season June-October means afternoon thunderstorms daily.",
-    ticketScams: "Estadio Akron area sees fake ticket sales. Only use official FIFA channels.",
+    ticketScams: "Estadio Akron area sees fake ticket sales. Only use official ticket channels.",
     localConcerns: [
       "Jalisco state has cartel presence - stick to tourist areas",
       "Motorcycle phone-snatchers in Colonia Americana & Centro",
@@ -1102,7 +1102,7 @@ const tvGuideData = {
           type: "tv" as const,
           channels: ["SBS", "SBS VICELAND"],
           cost: "Free over-the-air",
-          notes: "All 104 matches free-to-air. Australia's World Cup home since 1986."
+          notes: "All 104 matches free-to-air. Australia's tournament home since 1986."
         },
         {
           id: "sbs-ondemand",
@@ -1219,7 +1219,7 @@ const tvGuideData = {
           type: "tv" as const,
           channels: ["Globo", "SporTV"],
           cost: "Free (Globo) / Cable (SporTV)",
-          notes: "Broadcasting World Cups since 1970. Most watched in Brazil."
+          notes: "Broadcasting tournaments since 1970. Most watched in Brazil."
         },
         {
           id: "cazetv",
@@ -1955,7 +1955,7 @@ const privateTransportData = {
     }
   },
   tips: [
-    "Book FBO slots early during World Cup - demand will be extremely high",
+    "Book FBO slots early during the tournament - demand will be extremely high",
     "Helicopter transfers available from most major airports to stadiums",
     "Mexico City private jets MUST use Toluca (TLC), not MEX airport",
     "Yacht berths in Miami will be premium - book 6+ months ahead",
@@ -2216,7 +2216,7 @@ const consulatesData: CityConsulates[] = [
 ];
 
 const customsDataKeys = {
-  visaRequirements: ["esta", "b1b2", "fifa-pass"],
+  visaRequirements: ["esta", "b1b2", "tournament-pass"],
   firstPointOfEntrySteps: 5,
   additionalInfo: ["customs-declaration", "duty-free", "cash-declaration", "food-restrictions", "global-entry"]
 };

@@ -19,9 +19,9 @@ export default defineConfig({
       },
       includeAssets: ['favicon.png', 'apple-touch-icon.png'],
       manifest: {
-        name: 'Championship Concierge - 2026 World Cup Travel Companion',
+        name: 'Championship Concierge - 2026 Tournament Travel Companion',
         short_name: 'Championship Concierge',
-        description: 'Your essential travel utility for the 2026 World Cup. Complete city guides, safety info, and AI-powered assistance across 16 host cities.',
+        description: 'Your essential travel utility for the 2026 international soccer championship. Complete city guides, safety info, and AI-powered assistance across 16 host cities.',
         theme_color: '#22C55E',
         background_color: '#0a0a0b',
         display: 'standalone',

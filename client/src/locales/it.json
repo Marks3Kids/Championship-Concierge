@@ -1,6 +1,6 @@
 {
   "header": {
-    "worldCup": "Concierge",
+    "championship": "Concierge",
     "companion": "Campionato",
     "year": "2026"
   },
@@ -82,7 +82,7 @@
     "Bolivia": "La Verde ha usato efficacemente il vantaggio dell'altitudine casalinga. La squadra ha mostrato resilienza nelle qualificazioni sudamericane.",
     "DR Congo": "I Leopardi si sono qualificati per i loro primi Mondiali dal 1974. Un traguardo storico per il calcio congolese.",
     "Iraq": "I Leoni della Mesopotamia hanno mostrato forma promettente. Un mix di gioventù ed esperienza ha guidato la loro campagna di qualificazione.",
-    "Jordan": "Al-Nashama ha fatto la storia qualificandosi per la loro primissima Coppa del Mondo FIFA. Sotto l'allenatore Jamal Sellami, la Giordania ha raggiunto la finale della Coppa Araba FIFA 2025 e ha dominato le qualificazioni asiatiche con prestazioni cliniche."
+    "Jordan": "Al-Nashama ha fatto la storia qualificandosi per la loro primissima Coppa del Mondo tournament. Sotto l'allenatore Jamal Sellami, la Giordania ha raggiunto la finale della Coppa Araba tournament 2025 e ha dominato le qualificazioni asiatiche con prestazioni cliniche."
   },
   "common": {
     "back": "Indietro",
@@ -102,7 +102,7 @@
     "tip": "Suggerimento",
     "previous": "Precedente",
     "next": "Successivo",
-    "dataDisclaimer": "Dati forniti da fonti terze, tra cui FIFA.com, ESPN, BBC Sport e Sky Sports."
+    "dataDisclaimer": "Dati forniti da fonti terze, tra cui tournament.com, ESPN, BBC Sport e Sky Sports."
   },
   "bracket": {
     "title": "Tabellone ad Eliminazione",
@@ -123,7 +123,7 @@
     "finalMatch": "La Finale",
     "finalInfo": "La finale si giocherà al MetLife Stadium a New York/New Jersey",
     "aboutTitle": "Sulla Fase ad Eliminazione",
-    "aboutDescription": "La fase ad eliminazione della Coppa del Mondo FIFA 2026 inizia dopo la fase a gironi, con 32 squadre in competizione in partite a eliminazione diretta in 16 città ospitanti negli USA, Canada e Messico."
+    "aboutDescription": "La fase ad eliminazione della Coppa del Mondo tournament 2026 inizia dopo la fase a gironi, con 32 squadre in competizione in partite a eliminazione diretta in 16 città ospitanti negli USA, Canada e Messico."
   },
   "nav": {
     "home": "Home",
@@ -147,7 +147,7 @@
     "stadiumSeating": "Posti allo Stadio"
   },
   "home": {
-    "title": "FIFA",
+    "title": "tournament",
     "year": "2026",
     "tagline": "Il mondo sta arrivando in Nord America",
     "updateInfo": "Questa applicazione viene aggiornata regolarmente con le ultime informazioni fino alla fine della Coppa del Mondo 2026 e fino all'agosto 2026.",
@@ -172,7 +172,7 @@
   },
   "legal": {
     "title": "Informazioni Legali",
-    "disclaimer": "AVVERTENZA: Questa applicazione è un'app compagna indipendente creata dai fan e non è affiliata, approvata o collegata alla FIFA, alla Coppa del Mondo FIFA o a qualsiasi organismo organizzatore ufficiale.",
+    "disclaimer": "AVVERTENZA: Questa applicazione è un'app compagna indipendente creata dai fan e non è affiliata, approvata o collegata alla tournament, alla Coppa del Mondo tournament o a qualsiasi organismo organizzatore ufficiale.",
     "noAffiliation": "Tutti i marchi, loghi e nomi di marca sono di proprietà dei rispettivi proprietari. Qualsiasi uso di questi marchi è solo a scopo informativo e non implica approvazione.",
     "informationalPurposes": "Le informazioni fornite in questa app sono solo a scopo informativo generale. Sebbene ci sforziamo di mantenere le informazioni aggiornate e accurate, non facciamo dichiarazioni o garanzie di alcun tipo sulla completezza, accuratezza, affidabilità o disponibilità delle informazioni.",
     "thirdPartyLinks": "Questa app può contenere link a siti web e servizi di terze parti. Non siamo responsabili del contenuto, dell'accuratezza o delle pratiche di questi siti esterni.",
@@ -182,7 +182,7 @@
     "intellectualProperty": "Tutti i contenuti creati per questa app, esclusi i materiali di terze parti, sono protetti da copyright. Non è consentito riprodurre, distribuire o creare opere derivate senza autorizzazione.",
     "liabilityLimitation": "In nessun caso gli sviluppatori dell'app saranno responsabili per danni diretti, indiretti, incidentali, consequenziali o speciali derivanti dall'uso di questa applicazione.",
     "privacyStatement": "Rispettiamo la tua privacy. Qualsiasi dato personale raccolto viene utilizzato esclusivamente per migliorare la tua esperienza e non viene condiviso con terze parti senza il tuo consenso.",
-    "copyright": "© 2026 World Cup Companion. Tutti i diritti riservati. Questa è un'applicazione non ufficiale dei fan."
+    "copyright": "© 2026 championship Companion. Tutti i diritti riservati. Questa è un'applicazione non ufficiale dei fan."
   },
   "teams": {
     "title": "Squadre Qualificate",
@@ -300,18 +300,18 @@
       "toronto": "Campo BMO",
       "vancouver": "BC Place"
     },
-    "fifaStadiums": {
+    "tournamentStadiums": {
       "newYork": "Stadio New York/New Jersey",
-      "losAngeles": "Stadio Los Angeles FIFA",
-      "dallas": "Stadio Dallas FIFA",
-      "miami": "Stadio Miami FIFA",
-      "atlanta": "Stadio Atlanta FIFA",
-      "seattle": "Stadio Seattle FIFA",
+      "losAngeles": "Stadio Los Angeles tournament",
+      "dallas": "Stadio Dallas tournament",
+      "miami": "Stadio Miami tournament",
+      "atlanta": "Stadio Atlanta tournament",
+      "seattle": "Stadio Seattle tournament",
       "sanFrancisco": "Stadio Area della Baia di San Francisco",
       "houston": "Stadio Houston",
       "philadelphia": "Stadio Philadelphia",
-      "kansasCity": "Stadio Kansas City FIFA",
-      "boston": "Stadio Boston FIFA",
+      "kansasCity": "Stadio Kansas City tournament",
+      "boston": "Stadio Boston tournament",
       "toronto": "Stadio Toronto",
       "vancouver": "Stadio Vancouver",
       "guadalajara": "Stadio Guadalajara",
@@ -731,8 +731,8 @@
     "tapForDetails": "Tocca per i dettagli",
     "title_one": "titolo",
     "title_other": "titoli",
-    "worldCupTitle_one": "Titolo Mondiale",
-    "worldCupTitle_other": "Titoli Mondiali",
+    "championshipTitle_one": "Titolo Mondiale",
+    "championshipTitle_other": "Titoli Mondiali",
     "hostedBy": "Ospitato da",
     "matchResults": "Risultati delle Partite",
     "tournamentHighlight": "Momento Clou del Torneo",
@@ -974,7 +974,7 @@
       },
       "stayInformed": {
         "title": "Rimani Informato",
-        "tip": "Scaricate le app per il trasporto locale e seguite gli aggiornamenti ufficiali del trasporto FIFA."
+        "tip": "Scaricate le app per il trasporto locale e seguite gli aggiornamenti ufficiali del trasporto tournament."
       }
     },
     "stations": {
@@ -1417,7 +1417,7 @@
     "homeCityPlaceholder": "Da dove viaggi?",
     "nationality": "Nazionalità",
     "nationalityPlaceholder": "Il tuo paese di cittadinanza",
-    "worldCupPrefs": "Preferenze Coppa del Mondo",
+    "championshipPrefs": "Preferenze Coppa del Mondo",
     "favoriteTeam": "Squadra Preferita",
     "selectTeam": "Seleziona la tua squadra",
     "arrivalDate": "Data di Arrivo",
@@ -2508,7 +2508,7 @@
       "ticketScams": {
         "title": "Truffe di Biglietti e Merchandising",
         "description": "Biglietti falsi e maglie contraffatte venduti fuori dagli stadi.",
-        "tips": "Compra solo dalle app ufficiali (Ticketmaster, FIFA). Non comprare mai da privati per strada."
+        "tips": "Compra solo dalle app ufficiali (Ticketmaster, tournament). Non comprare mai da privati per strada."
       },
       "carBreakIns": {
         "title": "Furti d'Auto e Sicurezza nei Parcheggi",
@@ -2666,8 +2666,8 @@
           "title": "Visto B-1/B-2",
           "description": "Richiesto per Brasile, Argentina, Messico, Colombia, ecc."
         },
-        "fifa-pass": {
-          "title": "FIFA Pass",
+        "tournament-pass": {
+          "title": "tournament Pass",
           "description": "Colloqui per visti accelerati per possessori di biglietti ufficiali"
         }
       },
@@ -2736,7 +2736,7 @@
       "cities": {
         "miami": {
           "heatWarning": "L'indice di calore può raggiungere i 120°F (49°C) in giugno/luglio. L'alta umidità rende difficile il raffreddamento. Il colpo di calore è un rischio serio.",
-          "ticketScams": "Attenzione ai biglietti falsi venduti vicino all'Hard Rock Stadium. Acquista solo da FIFA.com o Ticketmaster. Maglie contraffatte comuni per strada.",
+          "ticketScams": "Attenzione ai biglietti falsi venduti vicino all'Hard Rock Stadium. Acquista solo da tournament.com o Ticketmaster. Maglie contraffatte comuni per strada.",
           "localConcerns": [
             "La stagione degli uragani va da giugno a novembre - monitora gli avvisi meteo",
             "Forte esposizione solare - usa protezione SPF 50+ e riapplica frequentemente",
@@ -2869,7 +2869,7 @@
         },
         "san-francisco": {
           "heatWarning": "SF stessa è fresca (60-70°F) ma il Levi's Stadium a Santa Clara può raggiungere oltre 95°F. Vestiti a strati.",
-          "ticketScams": "Truffatori esperti di tecnologia creano siti di biglietti falsi sofisticati. Usa solo FIFA.com o Ticketmaster.",
+          "ticketScams": "Truffatori esperti di tecnologia creano siti di biglietti falsi sofisticati. Usa solo tournament.com o Ticketmaster.",
           "localConcerns": [
             "Lo stadio è a 72 km da SF - pianifica il trasporto",
             "Epidemia di furti con scasso nelle auto - non lasciare mai nulla in auto",
@@ -2945,7 +2945,7 @@
         },
         "mexico-city": {
           "heatWarning": "L'alta quota (2.240 m) significa temperature più fresche del previsto (70-80°F). Ma il mal d'altitudine è una preoccupazione - acclimatati prima di fare sforzi.",
-          "ticketScams": "L'area dello Stadio Azteca ha operazioni di truffa sofisticate. I biglietti contraffatti sembrano molto reali. Acquista solo da FIFA.com.",
+          "ticketScams": "L'area dello Stadio Azteca ha operazioni di truffa sofisticate. I biglietti contraffatti sembrano molto reali. Acquista solo da tournament.com.",
           "localConcerns": [
             "Mal d'altitudine - vai piano i primi 2 giorni",
             "Borseggio nella Metro (specialmente Linea B)",
@@ -2965,7 +2965,7 @@
         },
         "guadalajara": {
           "heatWarning": "Caldo ma non estremo (80-90°F). Stagione delle piogge giugno-ottobre significa temporali pomeridiani quotidiani.",
-          "ticketScams": "L'area dell'Estadio Akron vede vendite di biglietti falsi. Usa solo canali ufficiali FIFA.",
+          "ticketScams": "L'area dell'Estadio Akron vede vendite di biglietti falsi. Usa solo canali ufficiali tournament.",
           "localConcerns": [
             "Lo stato di Jalisco ha presenza di cartelli - resta nelle aree turistiche",
             "Scippatori in moto in Colonia Americana e Centro",
@@ -3186,7 +3186,7 @@
           "title": "STRUMENTI RUMOROSI",
           "airhorns": {
             "name": "Trombe ad Aria e Vuvuzela",
-            "description": "Niente trombe ad aria, vuvuzela o strumenti rumorosi ad aria compressa. Questi sono severamente vietati in tutti gli eventi FIFA.",
+            "description": "Niente trombe ad aria, vuvuzela o strumenti rumorosi ad aria compressa. Questi sono severamente vietati in tutti gli eventi tournament.",
             "penalty": "Confisca"
           },
           "drums": {
@@ -3232,7 +3232,7 @@
           },
           "political": {
             "name": "Materiale Politico/Offensivo",
-            "description": "Niente striscioni politici, simboli discriminatori o materiali offensivi. La FIFA ha rigide politiche anti-discriminazione.",
+            "description": "Niente striscioni politici, simboli discriminatori o materiali offensivi. La tournament ha rigide politiche anti-discriminazione.",
             "penalty": "Ingresso negato, possibile ban"
           }
         }
@@ -3466,7 +3466,7 @@
     "title": "Concierge IA",
     "subtitle": "Il tuo esperto di viaggi per il Mondiale",
     "welcome": "Benvenuto!",
-    "welcomeMessage": "Sono il tuo concierge AI per FIFA 2026. Chiedimi di viaggi, ristoranti, alloggi o del torneo!",
+    "welcomeMessage": "Sono il tuo concierge AI per tournament 2026. Chiedimi di viaggi, ristoranti, alloggi o del torneo!",
     "selectCategory": "Come posso aiutarti?",
     "orTypeQuestion": "Oppure scrivi la tua domanda qui sotto",
     "changeCategory": "Cambia",
@@ -3500,7 +3500,7 @@
         "title": "Attività",
         "prompts": {
           "mustSee": "Attrazioni da non perdere a Los Angeles tra una partita e l'altra?",
-          "fanZones": "Dove si trovano le FIFA Fan Zone ufficiali?",
+          "fanZones": "Dove si trovano le tournament Fan Zone ufficiali?",
           "nightlife": "Le migliori zone per la vita notturna a Miami per i tifosi di calcio?",
           "familyFriendly": "Attività per famiglie a Seattle durante il Mondiale?"
         }
@@ -3620,9 +3620,9 @@
     "selectPrompt": "Scegli uno Stadio",
     "selectDescription": "Seleziona uno stadio sopra per visualizzare le sezioni e i prezzi",
     "capacity": "Capacità",
-    "pricingNote": "Come Funzionano i Prezzi FIFA",
-    "pricingDisclaimer": "La FIFA utilizza prezzi dinamici - Le partite della Fase a Gironi partono da circa $60-$250 USD, mentre la Finale va da $1.825-$6.730. I posti di Categoria 4 sono riservati ai residenti di USA, Canada e Messico.",
-    "sectionLegend": "Categorie Biglietti FIFA",
+    "pricingNote": "Come Funzionano i Prezzi tournament",
+    "pricingDisclaimer": "La tournament utilizza prezzi dinamici - Le partite della Fase a Gironi partono da circa $60-$250 USD, mentre la Finale va da $1.825-$6.730. I posti di Categoria 4 sono riservati ai residenti di USA, Canada e Messico.",
+    "sectionLegend": "Categorie Biglietti tournament",
     "viewOfficialMaps": "Vedi Mappe Ufficiali",
     "sectionTypes": {
       "category1": "Categoria 1",
@@ -3651,8 +3651,8 @@
     "allSections": "Tutte le Sezioni",
     "upTo": "fino a",
     "buyTickets": "Ottieni Biglietti",
-    "ticketDisclaimer": "I biglietti ufficiali sono disponibili solo tramite FIFA e rivenditori autorizzati.",
-    "visitFifa": "Visita Biglietti FIFA",
+    "ticketDisclaimer": "I biglietti ufficiali sono disponibili solo tramite tournament e rivenditori autorizzati.",
+    "visitTickets": "Visita Biglietti tournament",
     "sectionDetails": "Dettagli Sezione",
     "basePrice": "Prezzo Base",
     "premiumPrice": "Prezzo Premium",
@@ -3660,7 +3660,7 @@
     "viewQuality": "Qualità della Vista",
     "seatCapacity": "Capacità Posti",
     "amenities": "Servizi",
-    "checkAvailability": "Verifica Disponibilità su FIFA"
+    "checkAvailability": "Verifica Disponibilità su tournament"
   },
   "odds": {
     "title": "Quote del Torneo",
@@ -3722,7 +3722,7 @@
     "pickWinner": "Scegli il Vincitore",
     "selectTeam": "Seleziona Squadra",
     "winnerOf": "Vincitore di",
-    "worldCupFinal": "Finale Mondiale",
+    "championshipFinal": "Finale Mondiale",
     "selectWinnersToAdvance": "Seleziona i vincitori per far avanzare le squadre al turno successivo",
     "howItWorks": "Come Funziona",
     "step1Title": "Passo 1: Sedicesimi (Manuale)",
@@ -3812,7 +3812,7 @@
     "knockoutBrackets": "Tabelloni eliminatori",
     "fullSchedules": "Calendario completo",
     "tournamentNews": "Notizie del torneo",
-    "worldCupHistory": "Storia della Coppa del Mondo",
+    "championshipHistory": "Storia della Coppa del Mondo",
     "tournamentOdds": "Quote del torneo",
     "getTeamInfo": "Ottieni Info Squadre",
     "logistics": "Logistica",

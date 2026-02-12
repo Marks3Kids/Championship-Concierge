@@ -30,7 +30,7 @@ export const teamSeasonData: Record<string, {
 }> = {
   "Argentina": {
     wins: 8, ties: 2, losses: 1,
-    highlights: "Defending World Cup champions continued their dominance in South American qualifiers. Lionel Messi led the team with exceptional performances, while emerging talents like Julian Alvarez proved crucial.",
+    highlights: "Defending champions continued their dominance in South American qualifiers. Lionel Messi led the team with exceptional performances, while emerging talents like Julian Alvarez proved crucial.",
     recentMatches: [
       { opponent: "Brazil", result: "W", score: "2-1" },
       { opponent: "Uruguay", result: "D", score: "1-1" },
@@ -255,7 +255,7 @@ export const teamSeasonData: Record<string, {
   },
   "Australia": {
     wins: 5, ties: 3, losses: 3,
-    highlights: "The Socceroos battled through a tough Asian qualifying campaign. A mix of experienced campaigners and rising stars kept World Cup dreams alive.",
+    highlights: "The Socceroos battled through a tough Asian qualifying campaign. A mix of experienced campaigners and rising stars kept championship dreams alive.",
     recentMatches: [
       { opponent: "Japan", result: "L", score: "0-2" },
       { opponent: "South Korea", result: "L", score: "1-2" },
@@ -285,7 +285,7 @@ export const teamSeasonData: Record<string, {
   },
   "Morocco": {
     wins: 7, ties: 2, losses: 1,
-    highlights: "The Atlas Lions built on their historic 2022 World Cup run. Achraf Hakimi and Hakim Ziyech continued to shine as Morocco established themselves among Africa's elite.",
+    highlights: "The Atlas Lions built on their historic 2022 tournament run. Achraf Hakimi and Hakim Ziyech continued to shine as Morocco established themselves among Africa's elite.",
     recentMatches: [
       { opponent: "Egypt", result: "W", score: "2-1" },
       { opponent: "Senegal", result: "D", score: "1-1" },
@@ -360,7 +360,7 @@ export const teamSeasonData: Record<string, {
   },
   "South Africa": {
     wins: 5, ties: 4, losses: 2,
-    highlights: "Bafana Bafana qualified for their first World Cup since 2010. A new generation of talent emerged under Hugo Broos' guidance.",
+    highlights: "Bafana Bafana qualified for their first tournament since 2010. A new generation of talent emerged under Hugo Broos' guidance.",
     recentMatches: [
       { opponent: "Nigeria", result: "D", score: "1-1" },
       { opponent: "Morocco", result: "L", score: "0-2" },
@@ -405,7 +405,7 @@ export const teamSeasonData: Record<string, {
   },
   "Indonesia": {
     wins: 5, ties: 4, losses: 3,
-    highlights: "Garuda made history by qualifying for their first-ever World Cup. Naturalized players and emerging local talents combined to achieve the nation's greatest footballing moment.",
+    highlights: "Garuda made history by qualifying for their first-ever championship. Naturalized players and emerging local talents combined to achieve the nation's greatest footballing moment.",
     recentMatches: [
       { opponent: "Australia", result: "D", score: "1-1" },
       { opponent: "Japan", result: "L", score: "0-3" },
@@ -420,7 +420,7 @@ export const teamSeasonData: Record<string, {
   },
   "Saudi Arabia": {
     wins: 5, ties: 3, losses: 3,
-    highlights: "The Green Falcons built on their shock 2022 World Cup win over Argentina. Investment in domestic talent development showed positive results.",
+    highlights: "The Green Falcons built on their shock 2022 tournament win over Argentina. Investment in domestic talent development showed positive results.",
     recentMatches: [
       { opponent: "Japan", result: "D", score: "1-1" },
       { opponent: "Australia", result: "L", score: "0-2" },
@@ -435,7 +435,7 @@ export const teamSeasonData: Record<string, {
   },
   "Qatar": {
     wins: 4, ties: 4, losses: 3,
-    highlights: "The 2022 World Cup hosts showed improvement in Asian qualifying. Home tournament experience provided valuable lessons for the squad.",
+    highlights: "The 2022 tournament hosts showed improvement in Asian qualifying. Home tournament experience provided valuable lessons for the squad.",
     recentMatches: [
       { opponent: "South Korea", result: "L", score: "0-3" },
       { opponent: "Iran", result: "L", score: "1-3" },
@@ -450,7 +450,7 @@ export const teamSeasonData: Record<string, {
   },
   "Uzbekistan": {
     wins: 5, ties: 4, losses: 2,
-    highlights: "The White Wolves qualified for their first World Cup. A golden generation finally achieved the breakthrough after years of near-misses.",
+    highlights: "The White Wolves qualified for their first championship. A golden generation finally achieved the breakthrough after years of near-misses.",
     recentMatches: [
       { opponent: "Iran", result: "D", score: "1-1" },
       { opponent: "Qatar", result: "W", score: "2-1" },
@@ -630,7 +630,7 @@ export const teamSeasonData: Record<string, {
   },
   "Slovenia": {
     wins: 5, ties: 4, losses: 2,
-    highlights: "Slovenia qualified for their first World Cup since 2010. Jan Oblak's goalkeeping excellence anchored the team's defense.",
+    highlights: "Slovenia qualified for their first tournament since 2010. Jan Oblak's goalkeeping excellence anchored the team's defense.",
     recentMatches: [
       { opponent: "Denmark", result: "D", score: "1-1" },
       { opponent: "Serbia", result: "L", score: "0-2" },
@@ -750,7 +750,7 @@ export const teamSeasonData: Record<string, {
   },
   "Venezuela": {
     wins: 4, ties: 3, losses: 4,
-    highlights: "La Vinotinto made history qualifying for their first World Cup. A breakthrough moment for Venezuelan football.",
+    highlights: "La Vinotinto made history qualifying for their first championship. A breakthrough moment for Venezuelan football.",
     recentMatches: [
       { opponent: "Brazil", result: "L", score: "1-2" },
       { opponent: "Ecuador", result: "D", score: "1-1" },
@@ -780,7 +780,7 @@ export const teamSeasonData: Record<string, {
   },
   "Panama": {
     wins: 4, ties: 4, losses: 3,
-    highlights: "Los Canaleros qualified for their second World Cup. Physical presence and set-piece prowess remained key strengths.",
+    highlights: "Los Canaleros qualified for their second championship. Physical presence and set-piece prowess remained key strengths.",
     recentMatches: [
       { opponent: "Mexico", result: "L", score: "1-2" },
       { opponent: "Canada", result: "L", score: "0-2" },
@@ -855,7 +855,7 @@ export const teamSeasonData: Record<string, {
   },
   "DR Congo": {
     wins: 5, ties: 3, losses: 3,
-    highlights: "The Leopards qualified for their first World Cup since 1974. A historic achievement for Congolese football.",
+    highlights: "The Leopards qualified for their first tournament since 1974. A historic achievement for Congolese football.",
     recentMatches: [
       { opponent: "Morocco", result: "L", score: "1-3" },
       { opponent: "Egypt", result: "D", score: "1-1" },
@@ -885,7 +885,7 @@ export const teamSeasonData: Record<string, {
   },
   "Jordan": {
     wins: 8, ties: 2, losses: 1,
-    highlights: "Al-Nashama made history by qualifying for their first-ever FIFA World Cup. Under coach Jamal Sellami, Jordan reached the 2025 FIFA Arab Cup final and dominated Asian qualification with clinical performances.",
+    highlights: "Al-Nashama made history by qualifying for their first-ever championship. Under coach Jamal Sellami, Jordan reached the 2025 Arab Cup final and dominated Asian qualification with clinical performances.",
     recentMatches: [
       { opponent: "Oman", result: "W", score: "3-0" },
       { opponent: "Saudi Arabia", result: "W", score: "1-0" },
@@ -900,7 +900,7 @@ export const teamSeasonData: Record<string, {
   },
   "Cape Verde": {
     wins: 5, ties: 3, losses: 2,
-    highlights: "The Blue Sharks made history by qualifying for their first FIFA World Cup. The island nation showed remarkable organization and team spirit throughout African qualifying.",
+    highlights: "The Blue Sharks made history by qualifying for their first championship. The island nation showed remarkable organization and team spirit throughout African qualifying.",
     recentMatches: [
       { opponent: "Nigeria", result: "D", score: "1-1" },
       { opponent: "Libya", result: "W", score: "2-0" },
@@ -915,7 +915,7 @@ export const teamSeasonData: Record<string, {
   },
   "Curaçao": {
     wins: 4, ties: 4, losses: 3,
-    highlights: "The Caribbean nation qualified for their first World Cup through impressive performances in CONCACAF. A blend of Dutch-based players provided quality throughout the squad.",
+    highlights: "The Caribbean nation qualified for their first championship through impressive performances in CONCACAF. A blend of Dutch-based players provided quality throughout the squad.",
     recentMatches: [
       { opponent: "Costa Rica", result: "D", score: "1-1" },
       { opponent: "Honduras", result: "W", score: "2-1" },
@@ -945,7 +945,7 @@ export const teamSeasonData: Record<string, {
   },
   "Haiti": {
     wins: 4, ties: 4, losses: 3,
-    highlights: "Les Grenadiers qualified through determination in CONCACAF. Despite challenges, the team united to achieve a historic World Cup qualification.",
+    highlights: "Les Grenadiers qualified through determination in CONCACAF. Despite challenges, the team united to achieve a historic championship qualification.",
     recentMatches: [
       { opponent: "Canada", result: "L", score: "0-2" },
       { opponent: "Panama", result: "D", score: "1-1" },
@@ -975,7 +975,7 @@ export const teamSeasonData: Record<string, {
   },
   "Norway": {
     wins: 6, ties: 2, losses: 3,
-    highlights: "Norway qualified for their first World Cup since 1998. Erling Haaland's prolific goalscoring was instrumental in their European qualifying campaign.",
+    highlights: "Norway qualified for their first tournament since 1998. Erling Haaland's prolific goalscoring was instrumental in their European qualifying campaign.",
     recentMatches: [
       { opponent: "Scotland", result: "L", score: "1-2" },
       { opponent: "Serbia", result: "W", score: "2-1" },

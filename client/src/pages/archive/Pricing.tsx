@@ -17,7 +17,7 @@ const plans: PricingPlan[] = [
   {
     id: "basic",
     name: "Basic App",
-    description: "Essential World Cup info",
+    description: "Essential championship info",
     price: 4.99,
     interval: "one-time",
     priceId: "price_1SYdnrLI0BitNJUz4cpm9MAw",
@@ -30,7 +30,7 @@ const plans: PricingPlan[] = [
   {
     id: "premier",
     name: "Premier Pass",
-    description: "Complete World Cup experience",
+    description: "Complete championship experience",
     price: 19.99,
     interval: "one-time",
     priceId: "price_1SYdnrLI0BitNJUzShtUbJpV",
@@ -116,11 +116,11 @@ export default function Pricing() {
           <div className="text-center mb-8">
             <div className="inline-flex items-center gap-2 bg-primary/20 text-primary px-4 py-2 rounded-full mb-4">
               <Trophy className="w-4 h-4" />
-              <span className="text-sm font-medium">FIFA 2026 World Cup</span>
+              <span className="text-sm font-medium">2026 Championship</span>
             </div>
             <h1 className="text-4xl font-display font-bold text-white mb-3">
               Your Ultimate<br />
-              <span className="text-primary">World Cup Companion</span>
+              <span className="text-primary">Championship Companion</span>
             </h1>
             <p className="text-muted-foreground max-w-md mx-auto">
               Everything you need to experience the biggest sporting event across USA, Canada & Mexico

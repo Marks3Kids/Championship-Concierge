@@ -58,7 +58,7 @@ def main():
         print("Error: DEEPL_API_KEY environment variable not set.")
         return
 
-    print("=== FIFA 2026 World Cup App Translation Tool ===\n")
+    print("=== 2026 Championship App Translation Tool ===\n")
     
     if len(sys.argv) > 1:
         target_code = sys.argv[1].strip().lower()

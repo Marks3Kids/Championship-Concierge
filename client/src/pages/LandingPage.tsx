@@ -59,7 +59,7 @@ export default function LandingPage() {
             <span className="text-white">Your Essential</span>
             <br />
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary to-accent">
-              2026 World Cup
+              2026 Championship
             </span>
             <br />
             <span className="text-white">Travel Companion</span>
@@ -167,7 +167,7 @@ export default function LandingPage() {
             </div>
             <p className="text-xs text-muted-foreground text-center max-w-md">
               This is an independent fan-made companion app and is not affiliated with, 
-              endorsed by, or connected to FIFA or any official organizing bodies.
+              endorsed by, or connected to any official organizing bodies.
             </p>
             <div className="text-sm text-muted-foreground">
               &copy; 2026 Championship Concierge

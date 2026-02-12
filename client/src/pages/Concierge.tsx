@@ -109,7 +109,7 @@ export default function Concierge() {
 
   const getProfileContext = () => {
     try {
-      const profile = localStorage.getItem("fifa2026_profile");
+      const profile = localStorage.getItem("championship2026_profile");
       if (profile) {
         const parsed = JSON.parse(profile);
         const parts: string[] = [];
