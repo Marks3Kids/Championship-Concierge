@@ -3,12 +3,13 @@ workflows:
     name: iOS Build
     max_build_duration: 60
     instance_type: mac_mini_m2
+    integrations:
+      app_store_connect: Codemagic
     environment:
       node: 20
       xcode: latest
       groups:
         - ios_signing
-        - app_store_credentials
       vars:
         BUNDLE_ID: "com.mingledtreasure.championshipconcierge"
         NODE_ENV: "production"
@@ -19,14 +20,18 @@ workflows:
           npm install --include=dev
       - name: Generate App Icons
         script: |
-          # Create resources directory
           mkdir -p resources
-          # Copy our icon as the source
-          cp attached_assets/app-icon.png resources/icon.png
-          # Install capacitor assets generator
+          echo "=== Verifying icon source ==="
+          ls -la resources/icon.png
+          file resources/icon.png
+          if [ ! -s resources/icon.png ]; then
+            echo "ERROR: resources/icon.png is empty or missing!"
+            exit 1
+          fi
           npm install -g @capacitor/assets
-          # Generate all icon sizes for iOS and Android
-          npx capacitor-assets generate --iconBackgroundColor '#166534' --iconBackgroundColorDark '#166534'    
+          npx capacitor-assets generate --iconBackgroundColor '#166534' --iconBackgroundColorDark '#166534'
+          echo "=== Verifying generated icons ==="
+          find ios/App/App/Assets.xcassets/AppIcon.appiconset -name "*.png" 2>/dev/null | head -20 || echo "Icons not yet in ios folder (will be synced later)"
       - name: Build web assets
         script: |
           npx vite build --config vite.config.capacitor.ts
