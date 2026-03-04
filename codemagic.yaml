@@ -17,20 +17,6 @@ workflows:
       - name: Install dependencies
         script: |
           npm install --include=dev
-      - name: Generate App Icons
-        script: |
-          mkdir -p resources
-          echo "=== Verifying icon source ==="
-          ls -la resources/icon.png
-          file resources/icon.png
-          if [ ! -s resources/icon.png ]; then
-            echo "ERROR: resources/icon.png is empty or missing!"
-            exit 1
-          fi
-          npm install -g @capacitor/assets
-          npx capacitor-assets generate --iconBackgroundColor '#166534' --iconBackgroundColorDark '#166534'
-          echo "=== Verifying generated icons ==="
-          find ios/App/App/Assets.xcassets/AppIcon.appiconset -name "*.png" 2>/dev/null | head -20 || echo "Icons not yet in ios folder (will be synced later)"
       - name: Build web assets
         script: |
           npx vite build --config vite.config.capacitor.ts
@@ -50,12 +36,30 @@ workflows:
       - name: Sync Capacitor
         script: |
           npx cap sync ios
+      - name: Generate App Icons
+        script: |
+          echo "=== Verifying icon source ==="
+          ls -la resources/icon.png
+          file resources/icon.png
+          ICON_SIZE=$(wc -c < resources/icon.png)
+          echo "Icon file size: $ICON_SIZE bytes"
+          if [ "$ICON_SIZE" -lt 1000 ]; then
+            echo "ERROR: resources/icon.png is too small ($ICON_SIZE bytes) - likely a placeholder!"
+            exit 1
+          fi
+          npm install -g @capacitor/assets
+          npx capacitor-assets generate --iconBackgroundColor '#166534' --iconBackgroundColorDark '#166534'
+          echo "=== Verifying generated icons in Xcode project ==="
+          ls -la ios/App/App/Assets.xcassets/AppIcon.appiconset/ || echo "ERROR: AppIcon.appiconset not found!"
+          echo "=== Icon files generated ==="
+          find ios/App/App/Assets.xcassets/AppIcon.appiconset -name "*.png" -exec ls -la {} \;
+          echo "=== Contents.json ==="
+          cat ios/App/App/Assets.xcassets/AppIcon.appiconset/Contents.json || echo "No Contents.json found"
       - name: Reinstall CocoaPods
         script: |
           cd ios/App
           pod deintegrate || true
           pod install --repo-update
-     
       - name: Fix Capacitor Framework Embedding
         script: |
           cd ios/App
@@ -73,7 +77,6 @@ workflows:
           end
           project.save
           " || echo "Ruby script failed, continuing anyway"
-     
       - name: Verify Bundle ID
         script: |
           cd ios/App
